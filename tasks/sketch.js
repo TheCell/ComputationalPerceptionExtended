@@ -195,7 +195,7 @@ let userSketch = function (sketch)
 		{
 			inTraining = false;
 			sketch.stroke(255);
-			sketch.strokeWeight(16);
+			sketch.strokeWeight(4);
 			// this offset though
 			sketch.line(
 			sketch.mouseX,
