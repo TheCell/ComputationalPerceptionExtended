@@ -66,9 +66,9 @@ let trainingSketch = function (sketch)
 	sketch.generateShapeOnTrainingShape = function ()
 	{
 		let shapeNumber = Math.round(Math.random() * 2); // 0 to 2, 3 states
-		strokeWeight(1);
-		stroke(255, 255, 255);
-		fill(0);
+		sketch.strokeWeight(1);
+		sketch.stroke(255, 255, 255);
+		sketch.fill(0);
 		let shape;
 
 		switch(shapeNumber)
