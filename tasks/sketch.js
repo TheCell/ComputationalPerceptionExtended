@@ -1,23 +1,4 @@
-/*
-let mnist;
-let train_index = 0;
-
-// testing variables
-let test_index = 0;
-let total_tests = 0;
-let total_correct = 0;
-
-let train_image;
-
-let user_digit;
-let user_has_drawing = false;
-let user_guess_ele;
-let percent_ele;
-*/
-
 let nn;
-// let userShape;
-// let trainingShape;
 let userGuessDOM;
 let trainingGuessDOM;
 let percentDOM;
@@ -62,9 +43,6 @@ let trainingSketch = function (sketch)
 		let targets = [0, 0, 0];
 		targets[label] = 1;
 
-		// console.log(inputs);
-		// console.log(label);
-		// console.log(targets);
 		let prediction = nn.predict(inputs);
 		let guess = findMax(prediction);
 		trainingGuessDOM.html(guess);
@@ -148,7 +126,6 @@ let trainingSketch = function (sketch)
 		let inputs = [];
 		sketch.loadPixels();
 		inputs = sketch.pixels.slice(0); // copy array
-		// console.log(inputs);
 		return inputs;
 	}
 }
