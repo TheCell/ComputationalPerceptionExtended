@@ -209,7 +209,32 @@ let userSketch = function (sketch)
 
 	sketch.guessFromUser = function ()
 	{
-		
+		let img = sketch.get();
+		let inputs = [];
+		img.resize(28,28);
+		img.loadPixels();
+		for (let i = 0; i < 784; i++)
+		{
+			inputs[i] = img.pixels[i * 4] / 255;
+		}
+		let prediction = nn.predict(inputs);
+		let guess = findMax(prediction);
+		let guessShape = "";
+		switch(guess)
+		{
+			case 0:
+				guessShape = "Triangle";
+				break;
+			case 1:
+				guessShape = "Rectangle";
+				break;
+			case 2:
+				guessShape = "Circle";
+				break;
+			default:
+				console.error("unknown shape Number to generate");
+		}
+		userGuessDOM.html(guessShape);
 	}
 }
 
