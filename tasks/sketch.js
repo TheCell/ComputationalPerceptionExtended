@@ -150,9 +150,10 @@ let trainingSketch = function (sketch)
 	{
 		let pixelArr = sketch.getPixelsFromTrainingShape();
 		let inputs = [];
-		for (let i = 0, j = 0; i < pixelArr.length; i += 4, j++)
+		let arrayLength = sketch.width * sketch.height;
+		for (let i = 0; i < arrayLength; i++)
 		{
-			inputs[j] = pixelArr[i];
+			inputs[i] = pixelArr[i * 4] / 255;
 		}
 
 		return inputs;
@@ -196,8 +197,19 @@ let userSketch = function (sketch)
 			sketch.stroke(255);
 			sketch.strokeWeight(16);
 			// this offset though
-			sketch.line(sketch.mouseX, sketch.mouseY, sketch.pmouseX, sketch.pmouseY);
+			sketch.line(
+			sketch.mouseX,
+			sketch.mouseY,
+			sketch.pmouseX,
+			sketch.pmouseY);
+
+			sketch.guessFromUser();
 		}
+	}
+
+	sketch.guessFromUser = function ()
+	{
+		
 	}
 }
 
