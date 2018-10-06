@@ -5,14 +5,26 @@ let percentDOM;
 let p5TrainingSketch
 let nnCorrectResults = [];
 let inTraining = true;
+let resetUserCanvas = false;
 
 function setup()
 {
+	noCanvas();
 	userGuessDOM = select('#user_guess');
 	percentDOM = select('#percent');
 	trainingGuessDOM = select('#trainingGuess');
 
+	p5UserSketch = new p5(userSketch);
 	p5TrainingSketch = new p5(trainingSketch);
+
+	keyPressed = function ()
+	{
+		if (key == ' ')
+		{
+			resetUserDrawing();
+			inTraining = true;
+		}
+	}
 }
 
 let trainingSketch = function (sketch)
@@ -153,6 +165,45 @@ let trainingSketch = function (sketch)
 		inputs = sketch.pixels.slice(0); // copy array
 		return inputs;
 	}
+}
+
+let userSketch = function (sketch)
+{
+	sketch.setup = function ()
+	{
+		sketch.createCanvas(200, 200).parent('container');
+		sketch.pixelDensity(1);
+		sketch.loadPixels();
+		sketch.background(0);
+	}
+
+	sketch.draw = function ()
+	{
+		if (resetUserCanvas)
+		{
+			sketch.background(0);
+			resetUserCanvas = false;
+		}
+
+		sketch.drawSketch();
+	}
+
+	sketch.drawSketch = function (argument)
+	{
+		if (sketch.mouseIsPressed)
+		{
+			inTraining = false;
+			sketch.stroke(255);
+			sketch.strokeWeight(16);
+			// this offset though
+			sketch.line(sketch.mouseX, sketch.mouseY, sketch.pmouseX, sketch.pmouseY);
+		}
+	}
+}
+
+function resetUserDrawing()
+{
+	resetUserCanvas = true;
 }
 
 function updateCorrectResults(result)
