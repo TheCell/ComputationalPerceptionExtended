@@ -3,9 +3,15 @@ let userGuessDOM;
 let trainingGuessDOM;
 let percentDOM;
 let p5TrainingSketch
+let nnCorrectResults = [];
+let inTraining = true;
 
 function setup()
 {
+	userGuessDOM = select('#user_guess');
+	percentDOM = select('#percent');
+	trainingGuessDOM = select('#trainingGuess');
+
 	p5TrainingSketch = new p5(trainingSketch);
 }
 
@@ -13,10 +19,6 @@ let trainingSketch = function (sketch)
 {
 	sketch.setup = function ()
 	{
-		userGuessDOM = select('#user_guess');
-		percentDOM = select('#percent');
-		trainingGuessDOM = select('#trainingGuess');
-
 		sketch.createCanvas(28, 28).parent('container');
 		sketch.pixelDensity(1);
 		sketch.loadPixels();
@@ -30,8 +32,12 @@ let trainingSketch = function (sketch)
 
 	sketch.draw = function ()
 	{
-		sketch.background(0);
-		sketch.train();
+		if(inTraining)
+		{
+			sketch.background(0);
+			sketch.train();
+			trainingGuessDOM.html(getPercentCorrectResults());
+		}
 	}
 
 	sketch.train = function ()
@@ -45,14 +51,21 @@ let trainingSketch = function (sketch)
 
 		let prediction = nn.predict(inputs);
 		let guess = findMax(prediction);
+		if (label == guess)
+		{
+			updateCorrectResults(1);
+		}
+		else
+		{
+			updateCorrectResults(0);
+		}
 		trainingGuessDOM.html(guess);
 		nn.train(inputs, targets);
 	}
 
 	sketch.generateShapeOnTrainingShape = function ()
 	{
-		//let shapeNumber = Math.round(Math.random() * 2); // 0 to 2, 3 states
-		let shapeNumber = 0; // decided by fair random dice roll ;)
+		let shapeNumber = Math.round(Math.random() * 2); // 0 to 2, 3 states
 		strokeWeight(1);
 		stroke(255, 255, 255);
 		fill(0);
@@ -101,12 +114,24 @@ let trainingSketch = function (sketch)
 
 	sketch.generateRectangle = function (maxX, maxY)
 	{
-		console.log("todo");
+		let point1 = {
+			x: Math.round(Math.random() * maxX),
+			y: Math.round(Math.random() * maxY)};
+		let width = Math.round(Math.random() * (maxX - point1.x));
+		let height = Math.round(Math.random() * (maxY - point1.y));
+
+		sketch.rect(point1.x, point1.y, width, height);
 	}
 
 	sketch.generateCircle = function (maxX, maxY)
 	{
-		console.log("todo");
+		let point1 = {
+			x: Math.round(Math.random() * maxX),
+			y: Math.round(Math.random() * maxY)};
+		let width = Math.round(Math.random() * (maxX - point1.x));
+		let height = Math.round(Math.random() * (maxY - point1.y));
+
+		sketch.ellipse(point1.x, point1.y, width, height);
 	}
 
 	sketch.getInputFromPixels = function ()
@@ -128,6 +153,22 @@ let trainingSketch = function (sketch)
 		inputs = sketch.pixels.slice(0); // copy array
 		return inputs;
 	}
+}
+
+function updateCorrectResults(result)
+{
+	if (nnCorrectResults.length >= 50)
+	{
+		nnCorrectResults.shift();
+	}
+
+	nnCorrectResults.push(result);
+}
+
+function getPercentCorrectResults()
+{
+	let sum = nnCorrectResults.reduce((a, b) => a + b, 0);
+	return (Math.round(sum / nnCorrectResults.length * 10000) / 100) + "%";
 }
 
 function findMax(arr)
