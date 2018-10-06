@@ -16,19 +16,160 @@ let percent_ele;
 */
 
 let nn;
-let userShape
+let userShape;
+let trainingShape;
+let userGuessDOM;
+let percentDOM;
 
 function setup()
 {
 	createCanvas(400, 200).parent('container');
-	nn = new NeuralNetwork(784, 64, 10);
-	let userShape = createGraphics(200, 200);
+	userShape = createGraphics(200, 200);
 	userShape.pixelDensity(1);
 
-	train_image = createImage(28, 28);
+	trainingShape = createImage(28, 28);
+	// will detect rectangle, circle or triangle
+	nn = new NeuralNetwork(trainingShape.width * trainingShape.height, 64, 3);
 
-	user_guess_ele = select('#user_guess');
-	percent_ele = select('#percent');
+	userGuessDOM = select('#user_guess');
+	percentDOM = select('#percent');
+}
+
+function draw()
+{
+	background(0);
+
+	train();
+
+	if (true)
+	{
+		//image(trainingShape, 0, 0, 200, 200);
+	}
+}
+
+function train()
+{
+	let label = generateShapeOnTrainingShape();
+	let input = getInputFromPixels();
+
+	// Do the neural network stuff;
+	let targets = [0, 0, 0];
+	targets[label] = 1;
+
+	//console.log(input);
+	// console.log(targets);
+
+	//console.log(train_index);
+
+	/*
+	let prediction = nn.predict(input);
+	let guess = findMax(prediction);
+
+	nn.train(input, targets);
+	*/
+}
+
+function generateShapeOnTrainingShape()
+{
+	//let shapeNumber = Math.round(Math.random() * 2); // 0 to 2, 3 states
+	let shapeNumber = 0; // decided by fair random dice roll ;)
+	strokeWeight(1);
+	stroke(255, 255, 255);
+	fill(0);
+	let shape;
+
+	switch(shapeNumber)
+	{
+		case 0:
+			shape = generateTriangle(
+				trainingShape.width,
+				trainingShape.height);
+			break;
+		case 1:
+			shape = generateRectangle(
+				trainingShape.width,
+				trainingShape.height);
+			break;
+		case 2:
+			shape = generateCircle(
+				trainingShape.width,
+				trainingShape.height);
+			break;
+		default:
+			console.error("unknown shape Number to generate");
+	}
+
+	// shape.loadPixels();
+	// console.log(shape);
+	// updatePixelsFromTrainingShape(shape.pixels.slice(0));
+	return shapeNumber;
+}
+
+function generateTriangle(maxX, maxY)
+{
+	let point1 = {
+		x: Math.round(Math.random() * maxX),
+		y: Math.round(Math.random() * maxY)};
+	let point2 = {
+		x: Math.round(Math.random() * maxX),
+		y: Math.round(Math.random() * maxY)};
+	let point3 = {
+		x: Math.round(Math.random() * maxX),
+		y: Math.round(Math.random() * maxY)};
+	return triangle(
+		point1.x, point1.y,
+		point2.x, point2.y,
+		point3.x, point3.y);
+}
+
+function generateRectangle(maxX, maxY)
+{
+	console.log("todo");
+}
+
+function generateCircle(maxX, maxY)
+{
+	console.log("todo");
+}
+
+function getInputFromPixels()
+{
+	let pixelArr = getPixelsFromTrainingShape();
+	let inputs = [];
+	// console.log(pixelArr);
+	for (let i = 0, j = 0; i < pixelArr.length; i += 4, j++)
+	{
+		inputs[j] = pixelArr[i];
+	}
+
+	return inputs;
+}
+
+function getPixelsFromTrainingShape()
+{
+	let inputs = [];
+	// inputs = trainingShape.pixels.slice(0); // copy array
+	// console.log(trainingShape.pixels);
+	return inputs;
+}
+
+function updatePixelsFromTrainingShape(pixelArr)
+{
+	trainingShape.pixels = pixelArr;
+	//trainingShape.updatePixels();
+}
+
+function findMax(arr)
+{
+	let record = 0;
+	let index = 0;
+	for (let i = 0; i < arr.length; i++) {
+		if (arr[i] > record) {
+			record = arr[i];
+			index = i;
+		}
+	}
+	return index;
 }
 
 /*
@@ -159,16 +300,5 @@ function keyPressed() {
 
 
 
-function findMax(arr) {
-	let record = 0;
-	let index = 0;
-	for (let i = 0; i < arr.length; i++) {
-		if (arr[i] > record) {
-			record = arr[i];
-			index = i;
-		}
-	}
-	return index;
 
-}
 */
