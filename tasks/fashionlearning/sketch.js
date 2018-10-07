@@ -161,7 +161,7 @@ let userSketch = function (sketch)
 		{
 			inTraining = false;
 			sketch.stroke(255);
-			sketch.strokeWeight(4);
+			sketch.strokeWeight(16);
 			// this offset though
 			sketch.line(
 			sketch.mouseX,
@@ -175,6 +175,11 @@ let userSketch = function (sketch)
 
 	sketch.guessFromUser = function ()
 	{
+		/*
+		trainIndex = (trainIndex + 1) % mnist.train_labels.length;
+		let exampleImage = mnist... TODO
+		sketch.image(exampleImage, 0, 0, sketch.width, sketch.height);
+		*/
 		let img = sketch.get();
 		let inputs = [];
 		img.resize(28,28);
@@ -189,13 +194,34 @@ let userSketch = function (sketch)
 		switch(guess)
 		{
 			case 0:
-				guessShape = "Triangle";
+				guessShape = "T-shirt/top";
 				break;
 			case 1:
-				guessShape = "Rectangle";
+				guessShape = "Trouser";
 				break;
 			case 2:
-				guessShape = "Circle";
+				guessShape = "Pullover";
+				break;
+			case 3:
+				guessShape = "Dress";
+				break;
+			case 4:
+				guessShape = "Coat";
+				break;
+			case 5:
+				guessShape = "Sandal";
+				break;
+			case 6:
+				guessShape = "Shirt";
+				break;
+			case 7:
+				guessShape = "Sneaker";
+				break;
+			case 8:
+				guessShape = "Bag";
+				break;
+			case 9:
+				guessShape = "Ankle boot";
 				break;
 			default:
 				console.error("unknown shape Number to generate");
