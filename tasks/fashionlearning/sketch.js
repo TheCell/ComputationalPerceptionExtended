@@ -9,6 +9,10 @@ let resetUserCanvas = false;
 let mnist;
 let trainIndex = 0;
 
+let userImage;
+let userImageInput;
+let redrawUserImage = true;
+
 function setup()
 {
 	noCanvas();
@@ -48,7 +52,6 @@ let trainingSketch = function (sketch)
 		{
 			mnist = data;
 			inTraining = true;
-			console.log(mnist);
 		});
 	}
 
@@ -142,14 +145,27 @@ let userSketch = function (sketch)
 		sketch.pixelDensity(1);
 		sketch.loadPixels();
 		sketch.background(0);
+
+		userImageInput = createFileInput(handleFile);
+		userImageInput.elt.onchange = function ()
+		{
+			console.log("your function could be called here ;)");
+		}
 	}
 
 	sketch.draw = function ()
 	{
-		if (resetUserCanvas)
+		if (!userImage && resetUserCanvas)
 		{
 			sketch.background(0);
 			resetUserCanvas = false;
+		}
+
+		if (userImage && redrawUserImage)
+		{
+			console.log(userImage);
+			sketch.image(userImage, 0, 0, sketch.width, sketch.height);
+			redrawUserImage = false;
 		}
 
 		sketch.drawSketch();
@@ -160,7 +176,7 @@ let userSketch = function (sketch)
 		if (sketch.mouseIsPressed)
 		{
 			inTraining = false;
-			sketch.stroke(255);
+			sketch.stroke(0);
 			sketch.strokeWeight(16);
 			// this offset though
 			sketch.line(
@@ -175,18 +191,18 @@ let userSketch = function (sketch)
 
 	sketch.guessFromUser = function ()
 	{
-		/*
-		trainIndex = (trainIndex + 1) % mnist.train_labels.length;
-		let exampleImage = mnist... TODO
-		sketch.image(exampleImage, 0, 0, sketch.width, sketch.height);
-		*/
 		let img = sketch.get();
 		let inputs = [];
 		img.resize(28,28);
 		img.loadPixels();
 		for (let i = 0; i < 784; i++)
 		{
-			inputs[i] = img.pixels[i * 4] / 255;
+			let colorAverage;
+			colorAverage = img.pixels[i * 4] / 255;
+			colorAverage = img.pixels[i * 4 + 1] / 255;
+			colorAverage = img.pixels[i * 4 + 2] / 255;
+
+			inputs[i] = colorAverage / 3;
 		}
 		let prediction = nn.predict(inputs);
 		let guess = findMax(prediction);
@@ -230,9 +246,24 @@ let userSketch = function (sketch)
 	}
 }
 
+function handleFile(file)
+{
+	if (file.type === 'image')
+	{
+		userImage = createImg(file.data);
+		userImage.elt.onload = function ()
+		{
+			console.log("load finished, redraw");
+			redrawUserImage = true;
+		}
+		userImage.hide();
+	}
+}
+
 function resetUserDrawing()
 {
 	resetUserCanvas = true;
+	redrawUserImage = true;
 }
 
 function updateCorrectResults(result)
