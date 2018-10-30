@@ -1,0 +1,6241 @@
+X: 1
+T:A and A's Waltz
+S:Mick Peat
+M:3/4
+L:1/4
+K:G
+X: 2
+T:Barry's Favourite
+S:Mick Peat
+M:2/2
+K:D
+X: 3
+T:Black Boy
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+X: 4
+T:Black Tulip Hornpipe
+S:Mick Peat
+M:2/2
+K:G
+X: 5
+T:Bobbin Mill Reel
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+X: 6
+T:Bonnie Kate
+S:Mick Peat
+M:4/4
+L:1/4
+K:G
+X: 7
+T:Busker Brag
+S:Mick Peat
+M:4/4
+L:1/4
+K:C
+X: 8
+T:Caymann Reel
+S:Mick Peat
+M:4/4
+L:1/4
+K:A
+X: 9
+T:The Chaco Waltz
+S:Mick Peat
+M:3/4
+L:1/4
+K:Bb
+X: 10
+T:Chestnut Reel
+S:Mick Peat
+Y:ABBCB
+M:4/4
+L:1/4
+K:G
+X: 11
+T:Cheviners Jig
+S:Mick Peat
+M:6/8
+K:D
+X: 12
+T:Cuillin Reel
+S:Mick Peat
+Y:ABBC
+M:4/4
+L:1/4
+K:G
+X: 13
+T:The Dance of the Polygon
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+X: 14
+T:Duchess of Hamilton's Rant
+S:Mick Peat
+M:6/8
+K:A
+X: 15
+T:Duncan's Waltz
+S:Mick Peat
+M:3/4
+L:1/4
+K:C
+X: 16
+T:Espresso Polka
+S:Mick Peat
+N:/f2Ideal for G/D melodeon/fP
+M:2/4
+L:1/4
+K:G
+X: 17
+T:Falling About
+S:Mick Peat
+M:4/4
+L:1/4
+K:E
+X: 18
+T:The Five Wells
+S:Mick Peat
+N:Taken from A Train's song
+M:6/8
+Y:ABA
+K:F
+X: 19
+T:Flapjack
+S:An idea from Lady Walpole's Reel
+M:4/4
+L:1/4
+K:F
+X: 20
+T:Fradley Reel
+S:Mick Peat
+M:4/4
+L:1/4
+K:C
+X: 21
+T:The Frantocini
+S:Mick Peat
+M:6/8
+K:F
+X: 22
+T:Harper's Frolick
+S:Mick Peat
+M:2/4
+L:1/4
+K:D
+X: 23
+T:Hopwas Hornpipe
+S:Mick Peat
+M:2/2
+K:G
+X: 24
+T:London
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+X: 25
+T:MacDonald's Jig
+S:Mick Peat
+M:6/8
+K:A
+X: 26
+T:Major O'Flacherty
+S:Mick Peat
+M:6/8
+K:C
+X: 27
+T:Old Man of Mow
+S:Mick Peat
+M:6/8
+K:G
+X: 28
+T:One More Dance \& Then
+S:Mick Peat
+M:2/4
+L:1/4
+K:G
+X: 29
+T:Paddy in Flow
+S:Mick Peat
+N:/f2AABA last time through/fP
+M:6/8
+K:D
+X: 30
+T:The Polygon
+S:Mick Peat
+M:6/8
+K:D
+X: 31
+T:Racoon Reel
+S:Mick Peat
+N:/f2Play AABA last time/fP
+M:2/4
+L:1/4
+K:A
+X: 32
+T:Roman Reel
+S:Mick Peat
+M:2/4
+L:1/4
+K:A
+X: 33
+T:Russian Dance
+S:Mick Peat
+M:2/4
+L:1/4
+K:C
+X: 34
+T:Sallylun Jig
+S:Mick Peat
+M:6/8
+L:1/8
+K:D
+X: 35
+T:The Scotch Ramble
+S:Mick Peat
+M:4/4
+L:1/4
+K:A
+X: 36
+T:Scottish Caddie
+S:Mick Peat
+N:/f2AABA last time through/fP
+M:6/8
+K:C
+X: 37
+T:The Sluggard Tapper
+S:Mick Peat
+N:
+M:3/4
+L:1/4
+Y:ABA
+K:D
+X: 38
+T:Spanish Dance
+S:Mick Peat
+M:2/4
+L:1/4
+K:D
+X: 39
+T:Stepping Stone
+S:Mick Peat
+M:3/4
+L:1/4
+K:G
+X: 40
+T:Temperley Hornpipe
+S:Mick Peat
+M:2/2
+K:D
+X: 41
+T:The Toastmaster
+S:Mick Peat
+N:/f2Can be played fast or sedate/fP
+M:4/4
+L:1/4
+K:G
+X: 42
+T:The Trouper
+S:Mick Peat
+M:4/4
+L:1/4
+K:G
+X: 43
+T:Verdi's Waltz
+S:Mick Peat
+M:3/4
+L:1/4
+Y:AABA
+K:C
+X: 44
+T:Via Gellia
+S:Mick Peat
+M:6/8
+L:1/8
+Y:ABCB
+K:G
+X: 45
+T:Vole Crossing
+S:Mick Peat
+M:6/8
+K:D
+X: 46
+T:Washtap Reel
+S:Mick Peat
+M:4/4
+L:1/4
+Y:ABCB
+K:G
+X: 1
+T:Aunt Hessie's White Horse
+S:Kevin Briggs
+Y:AAB
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 2
+T:Barn Dance 1
+S:McCusker Brothers
+Y:AB
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 3
+T:Barn Dance 2
+Y:AABA
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 4
+T:The Blackbird
+S:Nan Fleming-Williams
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 5
+T:Blue Bell Polka
+P:ABACA
+S:Jimmy Shand
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 6
+T:Beaux of Oakhill
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 7
+T:Caber Feigh
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:C
+X: 8
+T:Castles in the Air
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 9
+T:Colosseum
+S:KCC p22
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 10
+T:The Cuckoo
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 11
+T:Cuckoo's Nest
+S:Song
+M:4/4
+L:1/8
+R:Hornpipe
+K:Dm
+X: 12
+T:Down the Glen
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 13
+T:Fisher's Hornpipe
+S:BSDB, KCC p22
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 14
+T:The Friendly Visit
+S:FTB1 p5
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 15
+T:Gilderoy
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:Am
+X: 16
+T:Gipsy's Hornpipe
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 17
+T:Green Grow the Rushes
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 18
+T:Greencastle Hornpipe
+S:John Jones
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 19
+T:Humours of California
+S:Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 20
+T:Hamish
+S:Hamish
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 21
+T:Harvest Home
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 22
+T:The High Level
+S:Various keys, usually in B-
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 23
+T:Jenny's Bawbee
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 24
+T:John Peel
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 25
+T:John Peel Variations
+S:NPTB
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 26
+T:Kafoozalum
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 27
+T:Keel Row
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 28
+T:King of the Fairies
+S:Kevin Briggs
+P:AAB
+M:4/4
+L:1/8
+R:Hornpipe
+K:Em
+X: 29
+T:King of the Fairies
+P:AAB
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:Em
+X: 30
+T:Kitty O'Niel
+S:Nan F-W
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 31
+T:Kitty O'Niel's Champion
+S:Chicago
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 32
+T:The Lad with the Plaidie
+S:Kevin Briggs
+P:AABBC
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 33
+T:Liverpool Hornpipe
+S:KCC p22
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 34
+T:Londonderry Hornpipe
+S:Variations by O'Neill
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 35
+T:Lord Moira
+S:Kevin Briggs
+P:AAB
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 36
+T:Marquis of Lorne
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 37
+T:MacAllan
+S:J Scott Skinner
+Y:AB
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 38
+T:Madame Bonaparte
+S:Alistair Anderson
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 39
+T:Madame Bonaparte Variation
+S:AA
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 40
+T:Maggie Pickens
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 41
+T:Man from Newry
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 42
+T:Manchester
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 43
+T:McCusker
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 44
+T:Millicent's Favourite
+S:Kevin Briggs
+P:ABC
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 45
+T:Crossing the Minch
+S:Trad via Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 46
+T:Mrs Willis
+S:Helen
+M:4/4
+L:1/8
+R:Hornpipe
+K:F
+X: 47
+T:Navvie on the Line
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 48
+T:City of Savannah
+S:Trad via Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 49
+T:Orange and Blue
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 50
+T:Penny on the H2O
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 51
+T:Phillibelula
+P:AAB
+S:Trad
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 52
+T:Proudlocks's Variation
+S:Reading
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 53
+T:Proudlocks's Hornpipe
+S:NPTB
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 54
+T:Puddlegum's Misery
+S:John Kirkpatrick
+M:4/4
+L:1/8
+R:Hornpipe
+K:Am
+X: 55
+T:Redesdale Hornpipe
+S:NPTB
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 56
+T:Rights of Man
+S:KCC p27
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 57
+T:Roxburgh Castle
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 58
+T:Sheffield Hornpipe
+S:Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 59
+T:Shetland Polka
+S:Tommy Anderson
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 60
+T:Steam-boat Hornpipe
+S:FTB1 p4
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 61
+T:Thames Hornpipe
+S:BSDB, KCC p23
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 62
+T:Three Little Blackberries
+S:Newcastle Cloggies
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+X: 63
+T:Tom Howard's
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+X: 64
+T:Trumpet
+S:Captain Pugwash
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 65
+T:Croen y Ddeted Felan
+S:Helen/f2Dotted/fP
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+X: 1
+T:A and D
+S:EF
+Y:AB
+M:4/4
+K:A
+X: 2
+T:Abacus
+S:By Hugh Barwell, via Phil Rowe
+M:6/8
+K:G
+X: 3
+T:The American Dwarf
+S:FTB, via EF
+M:6/8
+K:D
+X: 4
+T:Ap Shenkin
+Y:AABABAC
+S:FTB 1 p 46, via EF
+M:4/4
+K:G
+X: 5
+T:Armstrongs
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:A
+X: 6
+T:Arthur Darley
+S:Formally, but with lift, via Phil Rowe
+Y:ABCB
+M:6/8
+K:D
+X: 7
+T:As Luck Will Have It
+S:John Lagden, via EF
+M:6/8
+K:D
+X: 8
+T:Atholl Highlanders
+Y:AABBCCDD
+S:Kevin Briggs, via EF
+M:6/8
+K:A
+X: 9
+T:Aunt Mary's Canadian Jig
+S:Ms L Dolman, via EF
+M:6/8
+K:D
+X: 10
+T:Avon Jig
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:Em
+X: 11
+T:Backstairs Jig
+S:EF
+Y:AB
+M:4/4
+K:G
+X: 12
+T:The Leaking Bagpipe
+S:The Cantii Collection, via Phil Rowe
+M:6/8
+K:G
+X: 13
+T:Ballybunion
+S:Folk Camps, via EF
+Y:AB
+M:6/8
+K:G
+X: 14
+T:Barbary Bell
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:G
+X: 15
+T:The Barley Mow
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 16
+T:Bean Setting (North Skelton)
+S:EF
+M:6/8
+K:G
+X: 17
+T:Belfast Almanac
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 18
+T:Bell's Favourite
+S:Don Messer's Way Down East Fiddlin' Tunes, via Phil Rowe
+M:6/8
+K:D
+X: 19
+T:Squire of Bensham
+S:NPTB, via EF
+Y:AB
+M:4/4
+K:C
+X: 20
+T:The Bent Pin
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 21
+T:Biddy The Bowl Wife
+S:FTB 2 34, via EF
+Y:AB
+M:6/8
+K:A
+X: 22
+T:Bill Charlton's Fancy
+S:Billy Pigg, via EF
+Y:ABC
+M:6/8
+K:G
+X: 23
+T:Blackberry Quadrille
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+X: 24
+T:Blackthorne Stick
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:G
+X: 25
+T:Blarney Pilgrim
+Y:AABBCC
+S:Alistair Anderson, via EF
+M:6/8
+K:G
+X: 26
+T:Blaydon Races
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+X: 27
+T:Bonnets So Blue
+Y:AAB
+S:Kevin Briggs, via EF
+M:4/4
+K:C
+X: 28
+T:Bonnets So Blue
+Y:AAB
+S:FTB 1 p 47, via EF
+M:4/4
+K:D
+X: 29
+T:Brian Borouhme
+S:Jimmy Galway, via EF
+Y:AB
+M:6/8
+K:Am
+X: 30
+T:Bridal Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 31
+T:The Mug of Brown Ale
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 32
+T:St. Bruno
+S:Chris Dewhurst, via Phil Rowe
+M:6/8
+K:Dm
+X: 33
+T:Buggy Ride Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 34
+T:Bung Your Eye
+S:FTB 2/42, via EF
+Y:AB
+M:6/8
+K:Am
+X: 35
+T:The Burdett
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 36
+T:Cadeau's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:Bb
+X: 37
+T:There Came A Young Man
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+X: 38
+T:Captain White
+Y:AAB
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+X: 39
+T:Crossing The Cascades
+S:Mike Richardson 16.9.90, via Phil Rowe
+M:6/8
+K:D
+X: 40
+T:The Castle
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 41
+T:Cat in the Kitchen
+S:Bob McQuillen Jan 1975, via Phil Rowe
+M:6/8
+K:Bm
+X: 42
+T:Cavan Buck
+S:Trad, arr Phil Rowe
+M:6/8
+K:Bm
+X: 43
+T:Champion Jig
+S:EF
+Y:AB
+M:6/8
+K:Em
+X: 44
+T:Charlbytown Two-Step
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+X: 45
+T:Charlie Hunter
+S:Jim McLeod, via EF
+Y:AB
+M:6/8
+K:D
+X: 46
+T:Chuntering Charlie
+S:John Kirkpatrick, via Phil Rowe
+M:6/8
+K:C
+X: 47
+T:Chelmsford Races
+S:Thomas Hardy Collection, via Phil Rowe
+M:6/8
+K:Bb
+X: 48
+T:Cherish The Ladies
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 49
+T:Jig For Chris
+S:Mike Richardson 30.3.89, via Phil Rowe
+M:6/8
+K:G
+X: 50
+T:Circle Around
+S:Chris Dewhurst 1978, via Phil Rowe
+M:6/8
+K:G
+X: 51
+T:The Cobbler
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 52
+T:Cock of the North
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:A
+X: 53
+T:Coleraine
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+X: 54
+T:The Connaught Man's Rambles
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 55
+T:Top of the Cork Road
+S:EF
+Y:ABC
+M:6/8
+K:D
+X: 56
+T:The Corner House Jig
+S:Andrew Rankine, via Phil Rowe
+M:6/8
+K:D
+X: 57
+T:Cumberland Reel
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 58
+T:Cupid's Dart
+S:Chris Dewhurst, via Phil Rowe
+M:6/8
+K:D
+X: 59
+T:Da Brigg
+S:Mrs Foxley's Fancy, via EF
+Y:AB
+M:6/8
+K:D
+X: 60
+T:Lass O' Dallogill
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 61
+T:Dan Powrie's Farewell
+S:Trad, arr Phil Rowe
+M:6/8
+K:F
+X: 62
+T:Danbury Hill
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+X: 63
+T:The Dancing Dustman
+S:Jimmy Shand, via Phil Rowe
+M:6/8
+K:G
+X: 64
+T:Dancing Tailor
+S:Alastair A, via EF
+Y:AB
+M:6/8
+K:D
+X: 65
+T:Danny MacPhail's Dilemma
+S:Ian MacPhail, via Phil Rowe
+M:6/8
+K:D
+X: 66
+T:Danse De Chez Nous
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 67
+T:My Darling Asleep
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 68
+T:Davie's Brae
+S:Jim Johnstone, via Phil Rowe
+M:6/8
+K:G
+X: 69
+T:Davie's Brae
+S:Trad, arr Phil Rowe
+M:6/8
+K:F
+X: 70
+T:Dance 'Til Dawn
+S:Mike Richardson 27.8.89, via Phil Rowe
+M:6/8
+K:D
+X: 71
+T:Debbie's Jig
+S:Bernie Ley, via Phil Rowe
+M:6/8
+K:Bb
+X: 72
+T:Denis Murphy's
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 73
+T:Go to the Devil and Shake Yourself
+S:EF
+Y:AB
+M:6/8
+K:D
+X: 74
+T:The Devil Among the Taylors
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 75
+T:Dingle Regatta
+Y:AABBCC
+S:Folk Camp, via EF
+M:6/8
+K:G
+X: 76
+T:Dinny O'Keefe's
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 77
+T:The Director
+S:Play A B A C, via Phil Rowe
+Y:ABAC
+M:6/8
+K:A
+X: 78
+T:Dixden
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:D
+X: 79
+T:Doc Boyd
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:C
+X: 80
+T:Donald Ian Rankine
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 81
+T:Double Rise
+S:Trad arr Hamish, via EF
+M:4/4
+K:D
+X: 82
+T:Drummond Castle
+S:AA, via EF
+Y:AB
+M:6/8
+K:Am
+X: 83
+T:Earl Bley's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 84
+T:Easter Chick
+S:Heather Bexon, via Phil Rowe
+M:6/8
+K:G
+X: 85
+T:Edmund MacKenzie of Plockton
+S:Andrew Rankine, via Phil Rowe
+M:6/8
+K:G
+X: 86
+T:Wee Emma
+S:Chris Dewhurst 1984, via Phil Rowe
+M:6/8
+K:F
+X: 87
+T:The Family's Pride
+S:Ms L Dolman, via EF
+M:6/8
+K:D
+X: 88
+T:Farewell
+Y:AABA
+S:Geoff Bocking, via EF
+M:6/8
+K:G
+X: 89
+T:Farewell To Joe
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:A
+X: 90
+T:Farmer's Jamboree
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:A
+X: 91
+T:Feathers
+S:EF
+M:6/8
+K:G
+X: 92
+T:Fiddle Hill Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 93
+T:Fiery Clock Fyece
+S:EF
+Y:AB
+M:6/8
+K:C
+X: 94
+T:Fifty Not Out
+S:Chris Dewhurst 1984, via Phil Rowe
+M:6/8
+K:C
+X: 95
+T:First Western Change
+S:From Don Merser's 'Way Down East Fiddlin' Tunes', via Phil Rowe
+M:6/8
+K:G
+X: 96
+T:The Flight
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+X: 97
+T:Flirtation !!!
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+X: 98
+T:My Favourite Flute
+S:Bob McQuillen Sept 1976, via Phil Rowe
+M:6/8
+K:D
+X: 99
+T:Footy Aygen The Wa'
+S:Trad, arr Phil Rowe
+M:6/8
+K:Em
+X: 100
+T:French Canadian Four-step
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 101
+T:Father Kelly's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 102
+T:Fram Apon Him
+S:Peter Kennedy, via EF
+Y:AB
+K:D
+X: 103
+T:Freds Frolics
+Y:AAB
+S:EF
+M:6/8
+K:G
+X: 104
+T:Garry Owen
+S:EF
+Y:AB
+M:6/8
+K:A
+X: 105
+T:Garster's Dream
+S:Peter Kennedy, via EF
+Y:AB
+M:4/4
+K:G
+X: 106
+T:The General Gathering 1745
+Y:AAB
+S:Athole p 136, via EF
+M:6/8
+K:D
+X: 107
+T:George's Corkscrew
+S:Chris Dewhurst 1982, via Phil Rowe
+M:6/8
+K:C
+X: 108
+T:The Giant's Silver
+S:Chris Dewhurst 1983, via Phil Rowe
+M:6/8
+K:A
+X: 109
+T:Glendaruel Highlanders
+Y:AABB
+S:Kevin Briggs, via EF
+M:6/8
+K:A
+X: 110
+T:Goat on the Hill
+S:Neil Campbell (MacBeat), via EF
+Y:AB
+M:6/8
+K:Am
+X: 111
+T:Goat on the Hill
+S:Neil Campbell (MacBeat), via EF
+Y:ABCDEF
+M:6/8
+K:Am
+X: 112
+T:The Gobby O
+S:FTB 2/42, via EF
+Y:AB
+M:6/8
+K:Am
+X: 113
+T:Grandfather's Pet
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 114
+T:Greenholm
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 115
+T:The Grindstone
+S:13.2.91, via Phil Rowe
+M:6/8
+K:F
+X: 116
+T:Happy Meeting
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:G
+X: 117
+T:Harmonica
+Y:SAAB
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+X: 118
+T:Haste To The Wedding
+S:EF
+Y:AB
+M:6/8
+K:D
+X: 119
+T:Haymaker's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 120
+T:White Heather Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 121
+T:Hexham Quadrille
+S:AA, via EF
+Y:ABC
+M:6/8
+K:G
+X: 122
+T:Hexham Races
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:G
+X: 123
+T:High Spy
+S:Chris Dewhurst 1989, via Phil Rowe
+M:6/8
+K:D
+X: 124
+T:Da Aald Hill Grinnd
+S:Peter Kennedy Shetland cassette, via EF
+Y:AB
+M:4/4
+K:G
+X: 125
+T:Hilly-Go Filly-Go
+Y:AABB
+S:McCusker Brothers, via EF
+M:6/8
+K:D
+X: 126
+T:Hogmany Jig
+S:AA, via EF
+M:6/8
+K:D
+X: 127
+T:Honeypot Jig
+S:Roger Swain, via Phil Rowe
+M:6/8
+K:C
+X: 128
+T:Hot Punch
+S:Lesley Dolman, via EF
+M:6/8
+K:D
+X: 129
+T:The Household Brigade
+S:Play A B A C, via Phil Rowe
+Y:SABAC
+M:6/8
+K:G
+X: 130
+T:Hugh's Happy
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+X: 131
+T:Hullichan Jig
+S:EF
+Y:AB
+M:6/8
+K:G
+X: 132
+T:Humber Jumber (The Frisky)
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:G
+X: 133
+T:Humours of Donnybrook
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:A
+X: 134
+T:The Hundred Pipers
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 135
+T:Wi' a 100 Pipers
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:A
+X: 136
+T:The Hundred Pipers
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 137
+T:Hunt The Squirrel
+S:Playford, via EF
+Y:AB
+M:6/8
+K:A
+X: 138
+T:Icy Jig
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:Am
+X: 139
+T:Indian Point
+S:Trad, arr Phil Rowe
+M:6/8
+K:Em
+X: 140
+T:Ingalls' Jingle
+S:Bob McQuillen April 1974, via Phil Rowe
+M:6/8
+K:G
+X: 141
+T:Irish Washerwoman
+S:Trad, via EF
+Y:AB
+M:6/8
+K:G
+X: 142
+T:Irish Washerwoman
+S:EF
+Y:AB
+M:6/8
+K:G
+X: 143
+T:McQuillen's Irish Green
+S:Bob McQuillen Aug 1976, via Phil Rowe
+M:6/8
+K:G
+X: 144
+T:Jan Martindale's Trip To The Bathroom
+S:Mike Richardson, via Phil Rowe
+M:6/8
+K:D
+X: 145
+T:Fair Jenny's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 146
+T:Joan of Arc
+S:Hugh Barwell, via Phil Rowe
+M:6/8
+K:Dm
+X: 147
+T:Joanie's Jig
+S:Bob McQuillen, via Phil Rowe
+M:6/8
+K:D
+X: 148
+T:John Brown's Body
+S:Trad, via EF
+M:6/8
+K:D
+X: 149
+T:Johnny MacGill
+S:Athole p 141, via EF
+M:6/8
+K:F
+X: 150
+T:Jonathan's Jig
+S:Bob McQuillen March 1978, via Phil Rowe
+M:6/8
+K:D
+X: 151
+T:Jopplety How
+S:Chris Dewhurst 1989, via Phil Rowe
+M:6/8
+K:G
+X: 152
+T:Joy Street Jig
+S:Ralph Page, via Phil Rowe
+M:6/8
+K:A
+X: 153
+T:Joy of the Dance
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 154
+T:Julian's Jig
+S:Dennis Salter, via Phil Rowe
+M:6/8
+K:C
+X: 155
+T:Julie's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 156
+T:Julie's Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 157
+T:Jump at the Sun
+S:John Kirkpatrick, via EF
+M:6/8
+K:Gm
+X: 158
+T:Katie's Rambles
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+X: 159
+T:Kennet Jig (For Kennet Mixer)
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+X: 160
+T:Rakes of Kildare
+Y:AAB
+S:EF
+M:6/8
+K:Am
+X: 161
+T:Kilty Lads
+S:EF
+M:6/8
+K:Em
+X: 162
+T:La Poule
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 163
+T:Lady in the Boat
+S:EF
+Y:AB
+M:6/8
+K:D
+X: 164
+T:Laird O' Cockpen
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:C
+X: 165
+T:The Lady Of The Lake
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 166
+T:Lamb Skinnet
+S:Alistair A, via EF
+Y:AB
+M:6/8
+K:A
+X: 167
+T:Lannigan's Ball
+S:1000ECDT, via EF
+Y:AB
+M:6/8
+K:Em
+X: 168
+T:The Lark in the Clear Air
+S:Trad, via EF
+Y:AABAB
+M:6/4
+L:1/4
+K:D
+X: 169
+T:The Lark In The Morning
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 170
+T:Larry O'Gaff
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:G
+X: 171
+T:The Lassie's Fancy
+S:FTB 2/39, via EF
+Y:AB
+M:6/8
+K:D
+X: 172
+T:St. Lawrence Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 173
+T:Leaping Jack
+S:John Kirkpatrick, via Phil Rowe
+M:6/8
+K:A
+X: 174
+T:Lemonville Jig
+S:J.C. Hayes (Canada), via Phil Rowe
+M:6/8
+K:D
+X: 175
+T:Lesley Dolman's Jig
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:D
+X: 176
+T:Liberty Bell
+S:Monty Python, via EF
+Y:ABC
+M:6/8
+K:G
+X: 177
+T:Life is all Chequered
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:G
+X: 178
+T:Lindbergh's Crate
+S:Bob McQuillen Jan 1976, via Phil Rowe
+M:6/8
+K:D
+X: 179
+T:Road To Lisdoonvarna
+S:Trad, arr Phil Rowe
+M:6/8
+K:Em
+X: 180
+T:Little Burnt Potato
+S:Lesley Dolman, via EF
+M:6/8
+K:D
+X: 181
+T:Lively Tim
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 182
+T:On the Trail of the Lonesome Pine
+S:Otto Wood, via EF
+M:6/8
+K:D
+X: 183
+T:Longthwaite
+S:Chris Dewhurst 1989, via Phil Rowe
+M:6/8
+K:Am
+X: 184
+T:Lost My Love
+S:McCusker Brothers, via EF
+Y:AB
+M:6/8
+K:Am
+X: 185
+T:Louisburg
+S:EF
+Y:AB
+M:6/8
+K:G
+X: 186
+T:Love, Port and Sherry
+S:John Jones, via EF
+Y:AB
+M:6/8
+K:D
+X: 187
+T:Luck Penny
+Y:AABBCC
+S:Micheal Gorman, via EF
+M:6/8
+K:G
+X: 188
+T:The Lucky Linslader
+S:Chris Collings, via Phil Rowe
+M:6/8
+K:C
+X: 189
+T:Maggie's Favourite
+Y:AABB
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+X: 190
+T:Major Mackie
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+X: 191
+T:Mallorca
+S:Duke of Windsor, via EF
+M:6/8
+K:G
+X: 192
+T:Manor Gardens
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+X: 193
+T:Maple Leaf Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 194
+T:Trip To Margate
+S:Trad, arr Phil Rowe
+M:6/8
+K:F
+X: 195
+T:Lady Mary Douglas
+Y:AABAC
+S:FTB, via EF
+M:6/8
+K:D
+X: 196
+T:The Matelot
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 197
+T:Mazawattee Tea Break
+S:Derek Pearce, via Phil Rowe
+M:6/8
+K:F
+X: 198
+T:Melange
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 199
+T:Merry Month of May
+Y:AABAC
+S:EF
+M:6/8
+K:A
+X: 200
+T:Mid-Day Jig
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:D
+X: 201
+T:Milford Pavillion
+S:Derek Pearce, via Phil Rowe
+M:6/8
+K:G
+X: 202
+T:Miss Bennet's Jig
+S:Anon, via EF
+Y:AB
+M:6/8
+K:G
+X: 203
+T:The Monaghan Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:Em
+X: 204
+T:Morecambe Bay
+Y:AAB
+S:Pat Shuldam-Shaw, via EF
+M:6/8
+K:D
+X: 205
+T:Mo's Peerie Boston
+S:Tom Anderson, via Phil Rowe
+M:6/8
+K:A
+X: 206
+T:Mrs Casey
+S:Coventry Morris, via EF
+Y:AB
+M:6/8
+K:Em
+X: 207
+T:Mucking of Geordie's Byre
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+X: 208
+T:The Muses
+Y:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+X: 209
+T:My Wife's a Wanton Wee Thing
+Y:AABB
+S:EF
+M:6/8
+K:D
+X: 210
+T:Nancy Dawson
+S:EF
+M:6/8
+K:G
+X: 211
+T:Nantwich Fair
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 212
+T:The Naughty 'Noochie
+S:Bob McQuillen Feb 1974, via Phil Rowe
+M:6/8
+K:G
+X: 213
+T:Ninepins
+Y:AAB
+S:Trad, via EF
+M:6/8
+K:D
+X: 214
+T:Workshop Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+X: 215
+T:North Skelton 1, v 1
+S:Trad, via EF
+M:6/8
+K:C
+X: 216
+T:North Skelton 1, v 2
+S:Trad, via EF
+M:6/8
+K:C
+X: 217
+T:North Skelton 1, v 3
+S:Trad, via EF
+M:6/8
+K:C
+X: 218
+T:North Skelton 2, v 1
+S:Trad, via EF
+M:6/8
+K:G
+X: 219
+T:North Skelton 2, v 2
+S:Trad, via EF
+M:6/8
+K:G
+X: 220
+T:Aux Bois De Norwich or Norwich Woods
+S:Bob McQuillen 19 July 1974, via Phil Rowe
+M:6/8
+K:G
+X: 221
+T:Nutting Girl
+Y:AAB
+S:Kevin Briggs, via EF
+M:4/4
+K:A
+X: 222
+T:Off She Goes
+S:Trad, via EF
+Y:AB
+M:6/8
+K:D
+X: 223
+T:Oh Dear, What Can The Matter Be
+S:Trad, via EF
+Y:ABCDEFGH
+M:6/8
+K:G
+X: 224
+T:One For The Pot
+S:Chris Dewhurst 1982, via Phil Rowe
+M:6/8
+K:Am
+X: 225
+T:Orange Rogue
+Y:LALABA
+S:McCusker Brothers, via EF
+M:6/8
+K:Em
+X: 226
+T:Orcadian
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+X: 227
+T:Over The Hills
+S:Trad, arr Phil Rowe
+M:6/8
+K:Em
+X: 228
+T:Oyster Girl
+S:EF
+Y:AB
+M:6/8
+K:G
+X: 229
+T:Paddy Carey
+S:Join the Band, via EF
+Y:AB
+M:6/8
+K:D
+X: 230
+T:Paddy the Dandy
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:A
+X: 231
+T:Paddy Whack
+S:EF
+Y:AB
+M:6/8
+K:G
+X: 232
+T:Pat's Parlour
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 233
+T:The Perfect Cure
+S:EF
+Y:AB
+M:6/8
+K:D
+X: 234
+T:Pet of the Pipers
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:A
+X: 235
+T:Pete's Peerie Boat
+Y:AAB
+S:Tommy Anderson, via EF
+M:6/8
+K:D
+X: 236
+T:Pine Cones
+Y:AAB
+S:John Lagden, via EF
+M:6/8
+K:D
+X: 237
+T:Piper's Fancy
+S:Kevin Briggs, via EF
+P:AB
+M:6/8
+K:D
+X: 238
+T:Pizza and Apple Pies
+S:Mike Richardson 23.3.89, via Phil Rowe
+M:6/8
+K:G
+X: 239
+T:Platnix
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+X: 240
+T:The Pleated Plaidie
+S:Dennis Salter, via Phil Rowe
+M:6/8
+K:A
+X: 241
+T:Pop Goes the Wheezle
+S:Trad, via EF
+M:6/8
+K:G
+X: 242
+T:Portland Fancy
+Y:ABCD
+S:FTB 2/48, via EF
+M:6/8
+K:A
+X: 243
+T:Princess Margaret
+S:Otto Wood, via EF
+M:6/8
+K:G
+X: 244
+T:Quaker's Wife
+S:Sam Sherry via Marlene
+M:6/8
+K:G
+X: 245
+T:The Quaker's Wife
+S:EF
+Y:AB
+M:6/8
+K:D
+X: 246
+T:Queen Victoria
+S:Otto Wood, via EF
+M:6/8
+K:A
+X: 247
+T:Queen's Fancy
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 248
+T:The Railway
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 249
+T:Rake Maker's Jig
+S:Brian Jenkins, via Phil Rowe
+M:6/8
+K:G
+X: 250
+T:Ralph Page Jig
+S:Ken Hillyer, via Phil Rowe
+M:6/8
+K:D
+X: 251
+T:Ran-Tan
+Y:AABBCC
+S:Whitby 1989, via EF
+M:6/8
+K:A
+X: 252
+T:Rattlebones
+S:Upton, via EF
+Y:AB
+M:6/8
+K:G
+X: 253
+T:Red Cigar
+S:Ralph Page, via EF
+Y:AB
+M:6/8
+K:G
+X: 254
+T:Red Leciester
+S:Chris Dewhurst 1980, via Phil Rowe
+M:6/8
+K:D
+X: 255
+T:Red Stocking
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:G
+X: 256
+T:Red Stocking
+S:Sam Sherry via Marlene
+Y:ABC
+M:6/8
+K:G
+X: 257
+T:Reg's Cigar
+S:Ralph Page, via Phil Rowe
+M:6/8
+K:G
+X: 258
+T:Stool of Repentance
+S:KCC p20, via EF
+Y:AB
+M:6/8
+K:G
+X: 259
+T:The Rocking Horse
+S:Chris Dewhurst 1978, via Phil Rowe
+M:6/8
+K:C
+X: 260
+T:Roddy Miller's Jig
+S:Bob McQuillen March 1977, via Phil Rowe
+M:6/8
+K:G
+X: 261
+T:The Rogue's March
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 262
+T:The Rollicking Irishman
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 263
+T:Rolling Off A Log
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+X: 264
+T:Rory O'More
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 265
+T:Rosin The Beau
+S:EF
+Y:AB
+M:6/8
+K:G
+X: 266
+T:Rushwick
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+X: 267
+T:Saddle The Pony
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 268
+T:Sailor's Wife
+S:EF
+Y:AB
+M:6/8
+K:Dm
+X: 269
+T:Sally Hunter
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 270
+T:A Pinch Of Saltire
+S:Dennis Salter, via Phil Rowe
+M:6/8
+K:A
+X: 271
+T:Colonel Sanders' March
+S:Bob McQuillen April 1976, via Phil Rowe
+M:6/8
+K:G
+X: 272
+T:Sarah's Jig
+S:Bob McQuillan, via Phil Rowe
+M:6/8
+K:D
+X: 273
+T:Scollys
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 274
+T:Scotsbroome Jig
+S:Mike Richardson 16.12.89, via Phil Rowe
+M:6/8
+K:D
+X: 275
+T:Scottish Reform
+Y:AAB
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+X: 276
+T:Scrabble On Sunday ?
+S:John Goodacre 1984, via Phil Rowe
+M:6/8
+K:Em
+X: 277
+T:Northern Hospitality Jig or Seamus Plagiarism
+S:Mike Richardson 16.12.89, via Phil Rowe
+M:6/8
+K:C
+X: 278
+T:I Do Like To Be Beside The Seaside
+S:Toby Bennett, via EF
+M:6/8
+K:C
+X: 279
+T:The Self
+Y:AABA
+S:FTB 1/41, via EF
+M:6/8
+K:G
+X: 280
+T:Seven Stars
+S:Thomas Hardy Collection via Yetties, via Phil Rowe
+M:6/8
+K:D
+X: 281
+T:Sgiandubh
+S:Ms L Dolman, via EF
+M:6/8
+K:Em
+X: 282
+T:Shafters Shindig
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:A
+X: 283
+T:Shafters Shindig
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:A
+X: 284
+T:Shandon Bells
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+X: 285
+T:Shane's Fancy
+S:NPTB, via EF
+Y:AB
+M:6/8
+K:G
+X: 286
+T:Sheards of Foula
+S:Peter Kennedy, via EF
+Y:AB
+M:6/8
+K:G
+X: 287
+T:The Old Horned Sheep or The Humours Of Donnybrook
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 288
+T:Shetland Boston
+S:Geoff Bocking, via EF
+M:6/8
+K:D
+X: 289
+T:New Rigged Ship
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 290
+T:Silver Roses For June
+S:Chris Dewhurst 1983, via Phil Rowe
+M:6/8
+K:D
+X: 291
+T:Sir Watkin's Jigg
+S:Johnson 1750 (John Lagden), via EF
+Y:AB
+M:6/8
+K:G
+X: 292
+T:Slashers
+S:FTB, via EF
+Y:AB
+M:6/8
+K:D
+X: 293
+T:Smash the Windows
+Y:AAB
+S:EF
+M:6/8
+K:D
+X: 294
+T:Soldiers Dance
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:A
+X: 295
+T:Solomon Levi
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+X: 296
+T:The Spaceman
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 297
+T:Spencefield Lane
+S:Chris Dewhurst 1980, via Phil Rowe
+M:6/8
+K:Am
+X: 298
+T:Spider Island
+S:JP/AFJC Jerry Robichaud, via EF
+M:6/8
+K:D
+X: 299
+T:Sprig of Shillelah
+S:KCC p21, via EF
+Y:AB
+M:6/8
+K:G
+X: 300
+T:Come Up The Back Stairs
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 301
+T:Starry Night for a Ramble
+Y:AABA
+S:EF
+M:6/8
+K:D
+X: 302
+T:Steamboat Quickstep
+S:Lesley Dolman, via EF
+Y:AB
+M:6/8
+K:A
+X: 303
+T:The Stone Court
+S:RSCDS 23, via EF
+M:6/8
+K:D
+X: 304
+T:Stratfield Saye
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+X: 305
+T:Summer Lightning
+S:John Goodacre 1984, via Phil Rowe
+M:6/8
+K:D
+X: 306
+T:Swallowtail
+S:EF
+Y:AB
+M:6/8
+K:Em
+X: 307
+T:Sweets of May
+Y:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+X: 308
+T:Swimming In The Gutter
+S:Trad, arr Phil Rowe
+M:6/8
+K:Gm
+X: 309
+T:Swine Jig
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 310
+T:The Sylph
+S:FTB, via EF
+M:6/8
+K:D
+X: 311
+T:Tam's Hunting Horn
+S:AA, via EF
+Y:AB
+M:6/8
+K:C
+X: 312
+T:Down the Tannoch Road
+S:AA, via EF
+Y:AB
+M:6/8
+K:D
+X: 313
+T:Scarce O' Tatties
+S:MacLeod, via Phil Rowe
+M:6/8
+K:Am
+X: 314
+T:Tenpenny Bit
+S:EF
+Y:AB
+M:6/8
+K:Am
+X: 315
+T:Terry Teehan's
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 316
+T:Teviot Bridge
+Y:AAB
+S:Athole p 134, via EF
+M:6/8
+K:A
+X: 317
+T:The Wonder
+S:Jimmy MacKay, via EF
+Y:AB
+M:6/8
+K:A
+X: 318
+T:Thursday Night
+S:EF
+Y:AB
+M:6/8
+K:A
+X: 319
+T:Tobin's Favourite
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 320
+T:Tripping Upstairs
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 321
+T:Turnpike Side
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 322
+T:Wakefield Hunt
+S:Thompson 1779, via Phil Rowe
+M:6/8
+K:G
+X: 323
+T:Walking To Heel
+S:John Goodacre 1985, via Phil Rowe
+M:6/8
+K:D
+X: 324
+T:The Wandle
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+X: 325
+T:Jig from the Water Music
+Y:AABBCCDD
+S:G F Handel, via EF
+M:6/8
+K:G
+X: 326
+T:The Weaver and His Wife
+S:AA, via EF
+Y:AB
+M:6/8
+K:A
+X: 327
+T:The Weaver and His Wife
+S:Andrew Rankine, via EF
+Y:AB
+M:6/8
+K:A
+X: 328
+T:Wellington's Advance
+S:Trad, arr Phil Rowe
+M:6/8
+K:Am
+X: 329
+T:When Daylight Shines
+Y:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+X: 330
+T:Irish Whiskey
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 331
+T:Whitby Workshop
+S:Gordon Tyrall via Jacquie \& Ellen
+M:6/8
+K:Am
+X: 332
+T:Whose
+S:Country Dance Manual, via EF
+Y:AB
+M:6/8
+K:G
+X: 333
+T:Wideford Hill
+S:Trad, arr Phil Rowe
+M:6/8
+K:A
+X: 334
+T:The Widow Magee
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+X: 335
+T:My Wife's A Wanton Wee Thing
+S:For Pat's Tradition, via Phil Rowe
+M:6/8
+K:D
+X: 336
+T:Cleveland Park
+S:Wolfstone, Arr EF/HJF
+M:6/8
+K:Dm
+X: 337
+T:Banks of the Allan
+S:Wolfstone, Arr EF/HJF
+M:6/8
+K:D
+X: 338
+T:Kenny Gilles of Portnalong
+S:Wolfstone, Arr EF/HJF
+Y:AABCCD
+M:6/8
+K:A
+X: 339
+T:Art Wooten's Quadrille
+S:Trad, arr Phil Rowe
+M:6/8
+K:Bb
+X: 340
+T:Christmas Day in da Morning
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+X: 1
+T:Abbotts Bromley Horn Dance
+Y:ABC
+S:EFDSS
+M:6/8
+K:Gm
+X: 2
+T:Abram Circle
+S:Trad
+M:4/4
+L:1/4
+K:G
+X: 3
+T:Beaux of London City
+S:Adderbury [News] ch(AB3) 6
+Y:ABCBCBCBCBCBC
+M:9/8
+K:F
+X: 4
+T:Blue Bells of Scotland
+S:[RD ex Blunt MSS] Ch(AB)6
+Y:ABABC
+M:4/4
+L:1/4
+K:G
+X: 5
+T:Constant Billy
+S:Adderbury
+Y:ABCDCBCD
+M:6/8
+K:A
+X: 6
+T:Lads a Bunchum
+S:Adderbury
+Y:AB
+M:2/2
+K:F
+X: 7
+T:Highland Mary
+N:A(AB)4
+Y:AABABABAB
+S:Ascot via Coventry MM
+M:4/4
+L:1/4
+K:G
+X: 8
+T:Mrs Casey
+N:A(ABB)4
+Y:AABBABBABBABB
+S:Ascot via Coventry MM
+M:6/8
+K:D
+X: 9
+T:Orange in Bloom
+N:A(ABBB)2(ACCC)2B
+Y:AABBBABBBACCCACCCB
+S:Ascot via Coventry MM
+M:6/8
+K:D
+X: 10
+T:Bonny Green Garters
+Y:BAAABCBC
+S:Traditional Morris Farewell
+M:6/8
+K:D
+X: 11
+T:Cuckoo's Nest
+N:A(AABB)(AACC)
+Y:AAABBAACC
+S:Bledington
+M:4/4
+L:1/4
+K:Gm
+X: 12
+T:Cuckoo's Nest
+S:Ilmington
+P:AB
+M:4/4
+K:D
+X: 13
+T:Cuckoo's Nest
+S:Sherbourne
+Y:AB
+M:4/4
+L:1/4
+K:F
+X: 14
+T:The Forester
+N:A(ABB) times 4
+Y:AABBABBABBABB
+S:Fieldtown
+M:4/4
+L:1/4
+K:D
+X: 15
+T:Jockey to the Fair
+S:McCuskers
+Y:AB
+M:6/8
+K:G
+X: 16
+T:Leapfrog
+N:(ABB)4
+Y:ABBABBABBABB
+S:Bledington
+M:4/4
+L:1/4
+K:Bb
+X: 17
+T:Morning Star
+S:Bledington
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 18
+T:Morris Off
+S:Rattlebones
+M:4/4
+L:1/4
+K:G
+X: 19
+T:Morris Off
+S:Bidford
+M:4/4
+L:1/4
+K:G
+X: 20
+T:Princess Royal
+Y:AAFBCBCB
+S:Abingdon
+M:4/4
+L:1/4
+K:G
+X: 21
+T:Princess Royal
+Y:AAFBCBCB
+S:Bampton
+M:4/4
+L:1/4
+K:Gm
+X: 22
+T:Princess Royal
+Y:AAB
+S:McCuskers
+M:4/4
+L:1/4
+K:Am
+X: 23
+T:Fieldtown Processional
+S:Fieldtown
+M:4/4
+L:1/4
+Y:ABA
+K:G
+X: 24
+T:Gisburn Processional
+S:Eric Foxley
+Y:ASBSASBSAS
+M:6/8
+K:G
+X: 25
+T:Tideswell Processional
+S:Eric Foxley
+M:4/4
+L:1/4
+K:G
+X: 26
+T:Wheatley Processional
+S:Eric Foxley
+M:4/4
+L:1/4
+K:G
+X: 27
+T:Winster Processional
+S:Eric Foxley
+M:4/4
+L:1/4
+K:G
+X: 28
+T:Sweet Jenny Jones
+S:Adderbury
+M:3/4
+L:1/4
+Y:ABA
+K:C
+X: 29
+T:Singing of the Travels
+S:Symondsbury
+M:4/4
+L:1/4
+K:G
+X: 30
+T:Valentine
+N:A(ABBB)(ACCC)A
+Y:A ABBB ACCC A
+S:Fieldtown
+M:6/8
+K:G
+X: 31
+T:William and Nancy
+N:A(AABBB)2(AACCC)2
+Y:A AABBB AABBB AACCC AACCC
+S:Bledington
+M:6/8
+K:G
+X: 1
+T:The Alderman's Hat
+S:Playford
+Y:AB
+M:4/4
+L:1/4
+K:Gm
+X: 2
+T:CAL 1
+S:Mark Knopfler
+Y:AABABA
+M:9/8
+L:1/8
+K:G
+X: 3
+T:CAL 2
+S:Mark Knopfler
+N:A(acc) A(unacc)
+Y:AA
+M:9/8
+P:A
+K:G
+X: 4
+T:Dick's Maggot
+S:Playford
+M:3/2
+K:G
+X: 5
+T:Hole in the Wall
+S:Playford
+Y:PAABA
+M:3/2
+K:Bb
+X: 6
+T:The Indian Queen
+S:Playford
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 7
+T:Mr Beveridge's Maggot
+S:Playford
+Y:AB
+M:3/2
+K:Gm
+X: 8
+T:Nancy's Fancy
+Y:AAB
+S:FTB 2/27
+M:4/4
+L:1/4
+K:G
+X: 9
+T:Never Love Thee More
+S:Playford
+M:6/8
+K:G
+X: 10
+T:Nonesuch
+S:Playford
+M:4/4
+L:1/4
+K:Dm
+X: 11
+T:The Queen's Jig
+S:Playford
+Y:AB
+M:6/8
+K:D
+X: 12
+T:Rufty Tufty
+S:Playford
+M:4/4
+L:1/4
+K:D
+X: 13
+T:Sadlers Wells
+S:Playford
+Y:AB
+M:6/4
+L:1/4
+K:Dm
+X: 14
+T:St Hugh's Jig
+S:Trevor
+M:4/4
+L:1/4
+K:D
+X: 15
+T:Staines Morris
+S:Playford
+M:4/4
+L:1/4
+K:Dm
+X: 1
+T:The 29th of May
+Y:AAB
+M:4/4
+L:1/4
+K:D
+X: 2
+T:Aaron's (Rarified) Air
+S:Bob McQuillen 1974 for Aaron Garland, via PR
+M:4/4
+L:1/4
+K:G
+X: 3
+T:Abbeyfield
+S:Peeping Tom, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 4
+T:Barren Rocks of Aden
+Y:AAB
+S:Kerr's CC p3, via EF
+M:4/4
+L:1/4
+K:D
+X: 5
+T:Aiken Drum
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 6
+T:Alabama Jubilee
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 7
+T:A La 'Page'
+S:Dennis Salter, via PR
+M:4/4
+L:1/4
+K:G
+X: 8
+T:Heights of Alma
+S:KCC p3, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 9
+T:Aly Anderson
+S:Bob McQuillen March 1977, via PR
+M:4/4
+L:1/4
+K:D
+X: 10
+T:Angeline The Baker
+S:Texas Old Time, via PR
+M:4/4
+L:1/4
+K:D
+X: 11
+T:Anniversary Reel
+S:Chris Dewhurst (1978), via PR
+M:4/4
+L:1/4
+K:D
+X: 12
+T:Applejack's Reel
+S:Bob McQuillen March 77, via PR
+M:4/4
+L:1/4
+K:D
+X: 13
+T:Arkensas Traveller
+S:Kevin Briggs, via EF
+Y:ABC
+M:4/4
+L:1/4
+K:A
+X: 14
+T:The Artusi Polka
+S:John Goodacre 1985, via PR
+M:4/4
+L:1/4
+K:D
+X: 15
+T:Astley's Ride
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 16
+T:Ballantynes
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 17
+T:The Ballydesmond Polkas No 1
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 18
+T:The Ballydesmond Polkas No 2
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 19
+T:Ballyhoura Mountains
+S:Ireland, via PR
+M:2/4
+L:1/4
+K:G
+X: 20
+T:Balquhidder Lasses
+Y:AAB
+S:Alfred Moffat, via EF
+M:4/4
+L:1/4
+K:Gm
+X: 21
+T:Bandersnatch
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 22
+T:Miss Forbes' Farewell to Banff
+Y:AAB
+S:Athole p147, via PR
+M:4/4
+L:1/4
+K:G
+X: 23
+T:La Bastringue
+S:French Canadian, via PR
+M:4/4
+L:1/4
+K:D
+X: 24
+T:Bonny Breast Knot (Devon)
+Y:AAB
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 25
+T:Beaver Creek
+S:Ralph Page, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 26
+T:Big Corral
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 27
+T:The Big Ship
+S:Nan Fleming Williams, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 28
+T:Billy In The Lowground
+S:via PR
+M:4/4
+L:1/4
+K:C
+X: 29
+T:The Black Bird
+S:KMM1 p41, via EF
+M:4/4
+L:1/4
+K:D
+X: 30
+T:Black Mountain Reel
+S:via PR
+Y:ABC
+M:4/4
+L:1/4
+K:A
+X: 31
+T: Missing title ?
+S:
+M:4/4
+L:1/4
+K:A
+X: 32
+T: Missing title !
+M:4/4
+L:1/4
+K:A
+X: 33
+T:The Bluebell Reel
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 34
+T:Boatie Rows
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 35
+T:Boggy Brays
+S:John Goodacre 1984, via PR
+M:4/4
+L:1/4
+K:D
+X: 36
+T:Boil 'Em Cabbage Down
+S:via PR
+M:2/4
+L:1/4
+K:D
+X: 37
+T:Bonnie Kate
+S:Kerrs/Eric Foxley
+M:4/4
+L:1/4
+K:D
+X: 38
+T:Bonny Breast Knot
+S:Sussex, via EF
+Y:AB
+M:4/4
+L:1/4
+K:C
+X: 39
+T:Bonny Laddie
+S:FTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 40
+T:Bonny Lass of Fyfie
+S:Joy, via EF
+M:4/4
+L:1/4
+K:G
+X: 41
+T:With Booze You Lose
+S:Bob McQuillen Sept 1975, via PR
+M:4/4
+L:1/4
+K:A
+X: 42
+T:Goodbye Girls I'm Going To Boston
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 43
+T:On The Road To Boston
+S:via PR
+M:2/4
+L:1/4
+K:D
+X: 44
+T:Crossing The Brazos
+S:Mike Richardson 15.7.89, via PR
+M:4/4
+L:1/4
+K:D
+X: 45
+T:The Breakdown
+S:Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 46
+T:Bonny Breast Knot
+S:Sussex, via PR
+M:4/4
+L:1/4
+K:G
+X: 47
+T:Brighton Camp
+Y:ABCD
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 48
+T:Buffalo Gals
+S:Ken Clark, via EF
+M:4/4
+L:1/4
+K:G
+X: 49
+T:Buttered Peas
+S:Lesley Dolman, via EF
+M:2/2
+K:G
+X: 50
+T:Caddum Woods
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 51
+T:California Here I Come
+S:Trad, via EF
+M:4/4
+L:1/4
+K:C
+X: 52
+T:Captain Maguire
+S:Nan F-W, via EF
+M:4/4
+L:1/4
+K:D
+X: 53
+T:Cart Tracks
+S:Chris Dewhurst (1979), via PR
+M:4/4
+L:1/4
+K:G
+X: 54
+T:The Cat Walk
+S:Fiona Maurice-Smith, via PR
+M:4/4
+L:1/4
+K:D
+X: 55
+T:Bill Cheetham
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 56
+T:Cherokee Shuffle
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 57
+T:Cherokee Shuffle
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 58
+T:The Chest Of Drawers
+S:John Goodacre 1986, via PR
+M:4/4
+L:1/4
+K:D
+X: 59
+T:The Chickadee's Polka
+S:Bob McQuillen Oct 1975, via PR
+M:4/4
+L:1/4
+K:G
+X: 60
+T:Chicken On The Fence Post
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 61
+T:Chilly Winds
+S:via PR
+M:4/4
+L:1/4
+K:Dm
+X: 62
+T:Chinese Breakdown
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 63
+T:Chorus Jig
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 64
+T:Chorus Jig
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 65
+T:Scottish Circassian Circle
+S:FTB 1/1, via EF
+M:4/4
+L:1/4
+K:G
+X: 66
+T:Clear The Way
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 67
+T:Inauguration Reel or The Clinton Canter
+S:Dennis Salter Jan 1993, via PR
+M:4/4
+L:1/4
+K:D
+X: 68
+T:Coloured Aristocracy
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 69
+T:Come Dance and Sing
+Y:AABA
+S:FTB 2, via EF
+M:4/4
+L:1/4
+K:D
+X: 70
+T:She'll be Coming Round the Mountain
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 71
+T:O'Carolan's Concerto
+S:O'Neil's, via EF
+M:4/4
+L:1/4
+K:D
+X: 72
+T:Corn Rigs
+S:Eric Foxley
+M:4/4
+L:1/4
+K:D
+X: 73
+T:Corn Rigs
+S:Athole p148, via EF
+M:4/4
+L:1/4
+K:G
+X: 74
+T:Cornish Quickstep
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 75
+T:Cornish Quickstep
+S:Geoff Bocking, via EF
+M:4/4
+L:1/4
+K:D
+X: 76
+T:Cripple Creek
+S:Lynn Rohrbough, via EF
+M:4/4
+L:1/4
+K:A
+X: 77
+T:Crooked Stove Pipe
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 78
+T:Cuckoo In The Tree
+S:Adapted by Fi Maurice-Smith, via PR
+M:2/4
+L:1/4
+K:D
+X: 79
+T:Cuckoo's Nest
+S:Emery Martin (Dunbar, PA) via S P Bayard, via EF
+M:4/4
+L:1/4
+K:A
+X: 80
+T:Cuckoo's Nest
+S:Scottish, via EF
+M:4/4
+L:1/4
+K:D
+X: 81
+T:Little Czech Number
+S:Joy, via EF
+M:4/4
+L:1/4
+K:Am
+X: 1
+T:Dance All Night
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 2
+T:Dashing White Sergeant
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 3
+T:Dennis Murphy's
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 4
+T:Devil Among the Tailors
+S:FTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 5
+T:Dill Pickle Rag
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 6
+T:Dinah
+S:Oklahoma, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 7
+T:Dinners 1
+S:Wolfstone Arr Hamish, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 8
+T:Dinners 2
+S:Wolfstone Arr Hamish, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 9
+T:Dixie Hoedown
+S:via PR
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 10
+T:B. Variation
+S:
+M:4/4
+L:1/4
+K:G
+X: 11
+T:Djatchko Kolo
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 12
+T:The Donegall
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 13
+T:The Doodler's Hornpipe
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:G
+X: 14
+T:Dornoch Links
+S:KCC p5, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 15
+T:Dorset Four Hand Reel
+Y:ABCD
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 16
+T:Down The Road
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 17
+T:Drowsy Maggie
+S:Eric Foxley
+M:4/4
+L:1/4
+K:Em
+X: 18
+T:The Drummer
+S:FTB 2/14, via EF
+Y:ABC
+M:4/4
+L:1/4
+K:Am
+X: 19
+T:Drunken Piper
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Am
+X: 20
+T:Drunken Sailor
+S:Nan F-W, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 21
+T:The Dublin Dance
+S:Bob McQuillen Jan 1977, via PR
+M:4/4
+L:1/4
+K:D
+X: 22
+T:Dubuque
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 23
+T:Durham Rangers
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 24
+T:East Neuk of Fife
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 25
+T:East Tennessee Blues
+S:via PR
+M:4/4
+L:1/4
+K:C
+X: 26
+T:East Dene
+S:via PR
+M:4/4
+L:1/4
+K:Bb
+X: 27
+T:East Hill Breakdown
+S:via PR
+M:4/4
+L:1/4
+K:C
+X: 28
+T:East Tennessee Blues
+S:via PR
+M:4/4
+L:1/4
+K:C
+X: 29
+T:Egan's
+S:Ireland, via PR
+M:2/4
+L:1/4
+K:D
+X: 30
+T:Einstein's Reel
+S:Chris Dewhurst, via PR
+M:4/4
+L:1/4
+K:E
+X: 31
+T:Liza Jane
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 32
+T:Sweet Ellen
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 33
+T:Erlegh March
+S:Pauline Wilson, via PR
+M:4/4
+L:1/4
+K:D
+X: 34
+T:Road To Errol
+S:Bob McQuillen Oct 1975, via PR
+M:4/4
+L:1/4
+K:G
+X: 35
+T:Eyes of Blue
+S:Trad, via EF
+M:4/4
+L:1/4
+K:C
+X: 36
+T:Farewell to Whisky
+S:Nan F-W, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 37
+T:The King of the Fairies
+S:Fiddler's Fakebook, via PR
+M:4/4
+L:1/4
+K:Em
+X: 38
+T:Fairy Dance
+S:Eric Foxley
+Y:ABCD
+M:4/4
+L:1/4
+K:D
+X: 39
+T:Far From Home
+S:Les, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 40
+T:Waiting For The Federals
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 41
+T:Fiddling Around
+S:via PR
+M:4/4
+L:1/4
+K:C
+X: 42
+T:Fireside Reel
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 43
+T:The First Frost
+S:John Goodacre 1983, via PR
+M:4/4
+L:1/4
+K:D
+X: 44
+T:The First Frost - Second part
+S:John Goodacre 1984, via PR
+M:4/4
+L:1/4
+K:D
+X: 45
+T:Fishers's Hornpipe
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 46
+T:Fishers's Hornpipe
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 47
+T:Flop Ear'd Mule
+S:Trad, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 48
+T:Flop-eared Mule
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 49
+T:Flowers of Edinburgh
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 50
+T:Athole Flowers of Edinburgh
+S:Athole p 144, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 51
+T:Foot and Fiddle
+S:Birmg SDB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 52
+T:For Beth
+S:Heather Bexon, via PR
+M:4/4
+L:1/4
+K:C
+X: 53
+T:Billy's Forty Footer
+S:Bob McQuillen 1973, via PR
+M:4/4
+L:1/4
+K:G
+X: 54
+T:Fred Roden's Reel
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 55
+T:Old French
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 56
+T:The Fruits Of Newbury - A New Bourree
+S:John Goodacre 1985, via PR
+M:4/4
+L:1/4
+K:D
+X: 57
+T:Going Down South
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 58
+T:Grand Old Duke of York
+P:AABA
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 59
+T:Galopede
+Y:AAB
+S:Eric Foxley
+M:4/4
+L:1/4
+K:G
+X: 60
+T:All The Way To Galway
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 61
+T:Gaspe Reel
+S:French Canadian, via PR
+M:4/4
+L:1/4
+K:D
+X: 62
+T:Geordie Hinnie
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 63
+T:Sweet Georgia Brown
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 64
+T:Marching Through Georgia
+S:via PR
+M:2/4
+L:1/4
+K:C
+X: 65
+T:Gilderoy
+S:via PR
+M:4/4
+L:1/4
+K:Am
+X: 66
+T:Gin I Were Where The Gadie Rins
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 67
+T:The Girl With the Blue Dress on
+S:FTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 68
+T:The Glendoan Fancy
+S:via PR
+M:4/4
+L:1/4
+K:Am
+X: 69
+T:Glengarry's March
+S:KCC p5, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 70
+T:Green Mountain Petronella
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 71
+T:The Golden Farmer
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 72
+T:Golden Slippers
+S:Trad, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 73
+T:Good Humour
+S:CDM, via EF
+M:4/4
+L:1/4
+K:G
+X: 74
+T:Good-bye Girls
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 75
+T:The Graceful Girl
+S:Bob McQuillen Jan 1977, via PR
+M:4/4
+L:1/4
+K:G
+X: 76
+T:La Grande Chaine
+S:Trad French Canadian, via EF
+M:4/4
+L:1/4
+K:G
+X: 77
+T:La Grande Chaine
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 78
+T:Grandpa's
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 79
+T:The Girl With The Green Hat On
+S:Bob McQuillen Feb 1975, via PR
+M:4/4
+L:1/4
+K:D
+X: 80
+T:Green Meadow
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 81
+T:Greetwell
+S:Pauline Wilson, via PR
+M:4/4
+L:1/4
+K:D
+X: 82
+T:The Old Grey Cat
+S:Leslie Dolmen, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Em
+X: 83
+T:The Guillemot's Revenge
+S:By Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:Gm
+X: 84
+T:Gyre And Gimble
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 1
+T:Hallowe'en
+S:Chris Dewhurst 1983, via PR
+M:4/4
+L:1/4
+K:G
+X: 2
+T:Hannah Onestep
+S:Pauline Wilson, via PR
+M:4/4
+L:1/4
+K:G
+X: 3
+T:Happy Day
+S:Bryon Bonnett, via PR
+M:4/4
+L:1/4
+K:G
+X: 4
+T:Harum Scarum
+S:Bryon Bonnett, via PR
+M:4/4
+L:1/4
+K:C
+X: 5
+T:The Headlands
+S:Ronald Cooper via Rosa M, via EF
+Y:AAB
+M:4/4
+L:1/4
+K:A
+X: 6
+T:Hell Broke Loose In Georgia
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 7
+T:Hi-There
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 8
+T:High Caul Cap
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 9
+T:Ho Ro My Nut Brown Maiden
+S:KCC p8, via EF
+Y:AB
+M:4/4
+L:1/4
+K:C
+X: 10
+T:Home From Holm
+S:Dennis Salter, via PR
+M:4/4
+L:1/4
+K:G
+X: 11
+T:Hon Ms Fraser
+S:RSCDS 23/1, via EF
+M:4/4
+L:1/4
+K:Bm
+X: 12
+T:Honey Harbour
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 13
+T:Hosannah
+S:Chris McDouall, via EF
+M:4/4
+L:1/4
+K:G
+X: 14
+T:Hot Time
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 15
+T:H.R.H. The Prince of Wales's Favourite
+S:Leslie Dolman, via EF
+Y:AABBCC
+M:4/4
+L:1/4
+K:D
+X: 16
+T:Hull's Victory
+S:via PR
+M:4/4
+L:1/4
+K:F
+X: 17
+T:Hull's Victory
+S:via PR
+M:4/4
+L:1/4
+K:F
+X: 18
+T:Huntsman's Chorus
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 19
+T:The Hurler's March
+S:Kevin Briggs, via EF
+M:2/4
+L:1/4
+K:D
+X: 20
+T:It's a Long Way to Tipperary
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 21
+T:Ian Duncan
+S:Ronald Cooper via Rosa M, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 22
+T:Ian James Wilson
+S:Chris Dewhurst (1985), via PR
+M:4/4
+L:1/4
+K:G
+X: 23
+T:Imitiation Reel
+S:Chris Dewhurst (1979), via PR
+M:4/4
+L:1/4
+K:A
+X: 24
+T:Indian Reel
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 25
+T:J B Milne
+S:Ken McDouall, via EF
+M:4/4
+L:1/4
+K:A
+X: 26
+T:Johnny's Down the River
+S:Lloyd Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 27
+T:Jack's Life
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:G
+X: 28
+T:Jack O'Lantern
+S:Chris Dewhurst, via PR
+M:4/4
+L:1/4
+K:D
+X: 29
+T:Jackson's Breakdown
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 30
+T:Jacob (or Enrico)
+S:Thomas Hardy Collection, via PR
+M:4/4
+L:1/4
+K:D
+X: 31
+T:Jaque Latin
+S:Via Mike Richardson, via PR
+M:2/4
+L:1/4
+K:G
+X: 32
+T:Jaybird
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 33
+T:J.B. Milne
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 34
+T:Jenny Lind
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 35
+T:Jenny Lind
+S:Lesley Dolman, via EF
+Y:ABCD
+M:4/4
+L:1/4
+K:D
+X: 36
+T:Jessie's Hornpipe
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 37
+T:Le Reel Des Jeunes Maries
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 38
+T:2nd part for B music
+S:
+M:4/4
+L:1/4
+K:D
+X: 39
+T:Jimmy Allen
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 40
+T:Jinglin Johnnie
+S:Athole p 144, via EF
+Y:AV
+M:4/4
+L:1/4
+K:A
+X: 41
+T:Johnny's Lover's gone
+S:Appalachian, via PR
+M:4/4
+L:1/4
+K:G
+X: 42
+T:Johnny's Gone to France
+S:FTB, via EF
+M:4/4
+L:1/4
+K:Em
+X: 43
+T:John Ryan's
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 44
+T:John and Tony
+S:Bob McQuillen March 1977, via PR
+M:4/4
+L:1/4
+K:D
+X: 45
+T:The Jolly Coppersmith
+S:Toby, via EF
+M:4/4
+K:D
+X: 46
+T:Jolly Dogs
+S:via PR
+M:2/4
+L:1/4
+K:A
+X: 47
+T:Good Night and Joy be with you
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 51
+T:Miss Kay Rose
+S:I. MacPhail, via PR
+M:4/4
+L:1/4
+K:A
+X: 52
+T:Keel Row
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 53
+T:Kelly the Boy From Kilken
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 54
+T:Kelsterne Gardens
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Dm
+X: 55
+T:Kingussie Flower
+S:Lesley Dolman, via EF
+Y:AB
+M:2/4
+L:1/4
+K:D
+X: 56
+T:Kiss Me Quick Me Mither's Coming
+S:Geo. McDonald, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 57
+T:Kitchen Girl
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 58
+T:Knick-Knack
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 59
+T:Knick-Knack
+S:Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 60
+T:Knick-Knack
+S:Mick Peat C music, via EF
+Y:ABC
+M:4/4
+L:1/4
+K:G
+X: 61
+T:Knotted Cord
+S:Ireland, via PR
+M:4/4
+L:1/4
+K:D
+X: 62
+T:Korybushka
+S:Russian, via EF
+M:4/4
+L:1/4
+K:Em
+X: 63
+T:Lord of the Dance
+S:Sydney Carter, arr Eric
+Y:ABA
+M:4/4
+L:1/4
+K:G
+X: 64
+T:La Russe
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 65
+T:Ladies' Triumph
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 66
+T:Lady of Ardross
+S:Trad arr Hamish, via EF
+M:4/4
+L:1/4
+K:C
+X: 67
+T:Lady Of The Lake
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 68
+T:Lambeth Walk
+S:Kevin Briggs, via EF
+Y:AABAA
+M:4/4
+L:1/4
+K:G
+X: 69
+T:Lamplighter's Hornpipe
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 70
+T:Petit Larousse
+S:Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:Am
+X: 71
+T:Late Evening Reel
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:D
+X: 72
+T:Lea Riggs
+S:Barrie Shay, via EF
+M:4/4
+L:1/4
+K:G
+X: 73
+T:Levantine's Barrel
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 74
+T:Levi Jackson
+S:Folk Camps, via EF
+M:4/4
+L:1/4
+K:G
+X: 75
+T:Lexie McAskill
+S:John McAskill, via EF
+M:4/4
+L:1/4
+K:Am
+X: 76
+T:Liberty
+S:John Lagden, via EF
+M:4/4
+L:1/4
+K:D
+X: 77
+T:The Flowers of Limerick
+S:via PR
+M:4/4
+L:1/4
+K:Gm
+X: 78
+T:Linhope Loup
+S:AA, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 79
+T:Little Brown Jug
+S:Kevin Briggs, via EF
+Y:AABABABA
+M:4/4
+L:1/4
+K:D
+X: 80
+T:Live Country
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 81
+T:The Leaving of Liverpool
+S:via PR
+M:2/4
+L:1/4
+K:D
+X: 82
+T:Little Liza Jane
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 83
+T:Lloyd of Binghampton
+S:via PR
+M:4/4
+L:1/4
+K:Bb
+X: 84
+T:Lock My Heart
+S:J. Eaton \& T. Shand, via PR
+M:4/4
+L:1/4
+K:D
+X: 85
+T:The Lodge Road
+S:Kevin Briggs, via EF
+Y:PAA
+M:2/4
+L:1/4
+K:D
+X: 86
+T:Log Cabin
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 87
+T:The Trip To London
+S:John Goodacre 1984, via PR
+M:4/4
+L:1/4
+K:D
+X: 88
+T:Lonesome Injun
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 89
+T:Long Long Trail
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+X: 90
+T:Lorna's Reel
+S:Bryon Bonnett, via PR
+M:4/4
+L:1/4
+K:G
+X: 91
+T:Lost Indian
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 92
+T:Lothian Scottish
+S:via PR
+M:4/4
+L:1/4
+K:F
+X: 93
+T:Louise's New Parlor
+S:Mike Richardson 14.2.90, via PR
+M:4/4
+L:1/4
+K:D
+X: 1
+T:Madness !
+S:Chris Dewhurst (1983), via PR
+M:4/4
+L:1/4
+K:F
+X: 2
+T:When You And I Were Young Maggie
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 3
+T:Outer Magnolia Reel
+S:Mike Richardson 27.10.90, via PR
+M:4/4
+L:1/4
+K:A
+X: 4
+T:The Maid Behind The Bar
+S:Fiddler's Fakebook, via PR
+M:4/4
+L:1/4
+K:D
+X: 5
+T:Mairie's Wedding
+S:Kay Graham, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 6
+T:Maple Sugar
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 7
+T:Marching Through Georgia
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 8
+T:Marmaduke's Hornpipe
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 9
+T:Miss Mary Printy
+S:I. MacPhail, via PR
+M:4/4
+L:1/4
+K:F
+X: 10
+T:My Son's A Prawn
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 11
+T:Mason's Apron
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 12
+T:Reel de Mattawa
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 13
+T:McElroy's Fancy
+S:via PR
+M:2/4
+L:1/4
+K:D
+X: 14
+T:McQuillen's March
+S:Bob McQuillen Nov 74, via PR
+M:4/4
+L:1/4
+K:G
+X: 15
+T:McQuillen's Squeezebox
+S:Chris's Dad, via EF
+M:4/4
+L:1/4
+K:C
+X: 16
+T:The Meeting of the Waters
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 17
+T:Meggy's Foot
+S:NPTB, via EF
+M:4/4
+L:1/4
+K:G
+X: 18
+T:Merry Blacksmith
+S:FTB 1/16, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 19
+T:Merrydale Romp
+S:Dennis Salter, via PR
+M:4/4
+L:1/4
+K:D
+X: 20
+T:Mersey
+S:David Bradley (Feb 89), via PR
+M:4/4
+L:1/4
+K:Em
+X: 21
+T:The Minstrel Boy
+S:Lesley Dolman, via EF
+M:4/4
+L:1/4
+K:G
+X: 22
+T:Clap Dance (Miss McLeod)
+S:McCusker Brothers, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 23
+T:Miss Campbell
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 24
+T:Miss Forbes' Farewell to Banff
+Y:AAB
+S:Athole p147, via EF
+M:4/4
+L:1/4
+K:G
+X: 25
+T:Miss Lyall
+S:Lesley Dolman, via EF
+M:4/4
+L:1/4
+K:D
+X: 26
+T:May Day (Miss McLeod's Reel)
+S:F1/24, via EF
+Y:ABC
+M:4/4
+L:1/4
+K:G
+X: 27
+T:Mississipi Sawyer
+S:Trad, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 28
+T:Miss Monaghan
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 29
+T:Montecarlo or Bust
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 30
+T:Reel De Montreal
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 31
+T:Morpeth Rant
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 32
+T:Mother Riley's Tour
+S:John Goodacre 1989, via PR
+M:4/4
+L:1/4
+K:D
+X: 33
+T:Muddy Water
+S:Oklahoma, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 34
+T:My Love is but a Lassie Yet
+S:Nan F-W, via EF
+Y:ABC
+M:4/4
+L:1/4
+K:D
+X: 35
+T:My Old Man
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 36
+T:My Old Man
+S:Eric Foxley
+M:4/4
+L:1/4
+K:D
+X: 37
+T:Nae Luck Aboot the Hoose (For Thady U Gander)
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 38
+T:Nancy
+Y:AAB
+S:Nan F-W, via EF
+M:4/4
+L:1/4
+K:D
+X: 39
+T:Nancy's Fancy
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 40
+T:Needle Case
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 41
+T:New High Level
+S:NPTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 42
+T:The New Year's Resolution
+S:Bob McQuillen Jan 1975, via PR
+M:4/4
+L:1/4
+K:G
+X: 43
+T:Newark March
+S:Pauline Wilson, via PR
+M:4/4
+L:1/4
+K:D
+X: 44
+T:Newcastle Station
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 45
+T:Nick Nack Paddy Whack
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 46
+T:Nine Pint Cloggie
+Y:AAB
+S:Kay Graham, via EF
+M:4/4
+L:1/4
+K:G
+X: 47
+T:North Skelton 3, v 1
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 48
+T:North Skelton 3, v 2
+S:Trad, via EF
+M:4/4
+L:1/4
+K:D
+X: 49
+T:Great North Run '86
+S:Robert Whitehead, via PR
+M:4/4
+L:1/4
+K:G
+X: 50
+T:Nottingham Knees Up !
+S:Chris Dewhurst (1980), via PR
+M:4/4
+L:1/4
+K:D
+X: 51
+T:Old Joe Clark 1
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 52
+T:Old Joe Clark 2
+S:Otto Woods, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 53
+T:Old Joe's Ife
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:A
+X: 54
+T:Olde Tyme Quadrille
+S:Bob McQuillen June 1975, via PR
+M:4/4
+L:1/4
+K:D
+X: 55
+T:One More Step ...
+S:H \& S, via EF
+M:4/4
+L:1/4
+K:G
+X: 56
+T:Opera Reel
+S:Vancouver, via EF
+M:4/4
+L:1/8
+K:D
+X: 57
+T:The Ornithologist's Retreat
+S:By Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:D
+X: 58
+T:You Shall Go Out With Joy
+S:Chris McDouall, via EF
+M:4/4
+L:1/4
+K:Dm
+X: 59
+T:Pack Up Your Troubles
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 60
+T:Patchwork Polka
+S:Ian Peterson, via PR
+M:2/4
+L:1/4
+K:D
+X: 61
+T:Payne and Bond
+S:John Goodacre 1986, via PR
+M:4/4
+L:1/4
+K:A
+X: 62
+T:Peacock Rag
+S:Folk Camps, via EF
+M:4/4
+L:1/4
+K:G
+X: 63
+T:The Pearl Wedding
+S:AA, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 64
+T:Peat Fire Flame
+S:via PR
+M:4/4
+L:1/4
+K:Em
+X: 65
+T:Duke Of Perth
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 66
+T:Petronella
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 67
+T:Pilgarlic
+Y:AAB
+S:John Lagden, via EF
+M:4/4
+L:1/4
+K:D
+X: 68
+T:The Pinch of Snuff
+S:AA, via EF
+M:4/4
+L:1/4
+K:D
+X: 69
+T:The Piper O' Dundee
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Am
+X: 70
+T:Pleasures of the Town
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 71
+T:The Poker Party Polka
+S:via PR
+M:2/4
+L:1/4
+K:Gm
+X: 72
+T:Polly Put the Kettle on
+Y:AAB
+S:Kay Graham, via EF
+M:4/4
+L:1/4
+K:D
+X: 73
+T:Preston Tally-Ho !
+S:Chris Dewhurst (1983), via PR
+M:4/4
+L:1/4
+K:G
+X: 74
+T:Pretty Little Widder
+S:Adatpted by Fi Maurice-Smith, via PR
+M:2/4
+L:1/4
+K:D
+X: 75
+T:Primrose Polka
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 76
+T:Prince Charlie's Welcome to Skye
+S:KMM3 p45, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 77
+T:Bottom of the Punch Bowl
+S:KCC p30, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 78
+T:Joys Of Quebec
+S:French Canadian, via PR
+M:4/4
+L:1/4
+K:A
+X: 79
+T:Quigley's Reel
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 80
+T:McQuillen's Squeezebox
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:C
+X: 1
+T:Raggety Anne
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 2
+T:Ragtime Annie
+S:via PR
+M:2/4
+L:1/4
+K:D
+X: 3
+T:Randel's Reel
+S:G. Mitchell, via PR
+M:4/4
+L:1/4
+K:G
+X: 4
+T:Rattigan's
+S:Ireland, via PR
+M:4/4
+L:1/4
+K:G
+X: 5
+T:Rattling Bog
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 6
+T:Little Red Waggon
+S:Kevin Briggs, via EF
+Y:ABCA
+M:4/4
+L:1/4
+K:D
+X: 7
+T:Red Haired Boy
+S:Fiddler's Fakebook, via PR
+M:4/4
+L:1/4
+K:A
+X: 8
+T:Redwing
+S:Kevin Briggs, via EF
+Y:ABBABBA
+M:4/4
+L:1/4
+K:F
+X: 9
+T:Uncle Reuben
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 10
+T:Rhos-y-gwaliau Romp
+S:Dennis Salter, via PR
+M:4/4
+L:1/4
+K:G
+X: 11
+T:Rhubarb Sandwich
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 12
+T:Rights of Man
+S:Fiddler's Fakebook, via PR
+M:4/4
+L:1/4
+K:Em
+X: 13
+T:Rigs O' Mallow
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 14
+T:Road to Butlins A52
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 15
+T:Roberston's Reel
+S:Tom Anderson, via PR
+M:4/4
+L:1/4
+K:G
+X: 16
+T:Roddy McCawley
+S:Saen Smith, via PR
+M:4/4
+L:1/4
+K:G
+X: 17
+T:Rodney's Glory
+Y:AABAB
+S:O'Neill, via EF
+M:4/4
+L:1/4
+K:C
+X: 18
+T:Rollin' In
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 19
+T:Rollstone Mountain
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 20
+T:Rose Tree
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 21
+T:Ross's Reel
+S:via PR
+M:4/4
+L:1/4
+K:F
+X: 22
+T:Roxburgh Castle
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 23
+T:Russ Allen
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 24
+T:Ryan's Rant
+Y:PAABBCCDD
+S:Eric Foxley
+M:4/4
+L:1/4
+K:Am
+X: 25
+T:S.H. Reel
+S:Bryon Bonnett, via PR
+M:4/4
+L:1/4
+K:G
+X: 26
+T:Sackett's Harbor
+S:via PR
+M:4/4
+L:1/4
+K:Am
+X: 27
+T:Miss S. Campbell of Saddle
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 28
+T:Sailor's Hornpipe
+S:Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 29
+T:Saints
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 30
+T:Careless Sally's Reel
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:G
+X: 31
+T:Sally Picker
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 32
+T:Sally Gardens
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 33
+T:Salmon Tails
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 34
+T:Sandy River Belles
+S:Version 1, via PR
+M:4/4
+L:1/4
+K:D
+X: 35
+T:Sandy River Belles
+S:Version 2, via PR
+M:4/4
+L:1/4
+K:G
+X: 36
+T:Saratoga
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 37
+T:Le Parc de Sceaux
+S:Chris Dewhurst, via EF
+Y:AB
+M:4/4
+L:1/4
+K:Am
+X: 38
+T:The Scholar
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 39
+T:Scotland the Brave
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 40
+T:Service !
+S:Chris Dewhurst (1983), via PR
+M:4/4
+L:1/4
+K:C
+X: 41
+T:Seventy Second's Farewell
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 42
+T:Munster Hop
+S:Sharon Shannon/6 arr Eric
+M:4/4
+L:1/4
+K:G
+X: 43
+T:The Happy One-Step
+Y:AABABA
+S:Sharon Shannon/2 arr Eric
+M:4/4
+L:1/4
+K:G
+X: 44
+T:Shepton Reel
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 45
+T:Silver and Gold
+S:Ken McDouall, via EF
+M:4/4
+L:1/4
+K:D
+X: 46
+T:Sir Sidney Smith
+S:NPTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 47
+T:Slow March for Pipers
+Y:ABB
+S:AA, via EF
+M:4/4
+L:1/4
+K:D
+X: 48
+T:So-so Polka
+S:Lesley Dolman, via EF
+Y:AB
+M:2/2
+K:G
+X: 49
+T:Soldiers' Joy
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 50
+T:Spanish Dance
+S:Thomas Hardy Collection via Yetties, via PR
+M:2/4
+L:1/4
+K:G
+X: 51
+T:Speed The Plough
+S:FTB 1/8, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 52
+T:Spence's Tent
+S:James Hill, via EF
+M:4/4
+L:1/4
+K:B
+X: 53
+T:St Anne's (V)
+S:Vancouver, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 54
+T:St Anne's (L)
+S:AlyB via Lesley, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 55
+T:Set De La Baie St Paul
+S:French Canadian, via PR
+M:4/4
+L:1/4
+K:D
+X: 56
+T:Staten Island
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 57
+T:Storrers
+S:Nan F-W, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 58
+T:Sugar in my Coffee-o
+Y:AAB
+S:Lynn Rohrbough, via EF
+M:4/4
+L:1/4
+K:G
+X: 59
+T:Sugar in the Gourd
+S:Lynn Rohrbough, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 60
+T:Good Old Summertime
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+X: 61
+T:Miss Supertest's Victory Reel
+S:Peter Durber, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 62
+T:Miss Susan Cooper
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 63
+T:Oh Susanna
+S:via PR
+M:2/4
+L:1/4
+K:G
+X: 64
+T:The Swallow's Tail
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 65
+T:Swannee
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+X: 66
+T:English Dance
+S:Swedish, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 67
+T:Swedish Masquerade
+S:Kevin Briggs, via EF
+Y:ABC
+M:4/4
+L:1/4
+K:G
+X: 68
+T:The Swiss Boy
+S:Thomas Hardy Collection, via PR
+M:4/4
+L:1/4
+K:D
+X: 69
+T:Teetotaller's Reel
+S:Kerrs/Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 70
+T:Teetotaller's Reel Descant
+S:Kerrs/Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 71
+T:Teetotaller's Reel
+S:Kerrs/Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 72
+T:That's All
+S:Chris Collings, via PR
+M:4/4
+L:1/4
+K:A
+X: 73
+T:The Rant
+S:Les, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 74
+T:Thirty Years Ago
+S:Mike Bush, via EF
+M:4/4
+L:1/4
+K:G
+X: 75
+T:Miss Thompson's Hornpipe
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 76
+T:Thornbury Rise
+S:Philip Rowe
+M:2/4
+L:1/4
+K:G
+X: 77
+T:March of St Timothy
+S:Judi Morningstar, via PR
+M:2/4
+L:1/4
+K:G
+X: 78
+T:Timour The Tartar
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 79
+T:Tin Gee Gee
+S:via PR
+M:2/4
+L:1/4
+K:D
+X: 80
+T:Tinkerbell
+S:Chris Dewhurst (1979), via PR
+M:4/4
+L:1/4
+K:D
+X: 81
+T:The Tipsy Parson
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 82
+T:Tom and Jerry
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:A
+X: 83
+T:Tom Pate
+S:Kevin Briggs, via EF
+Y:AABA
+M:4/4
+L:1/4
+K:G
+X: 84
+T:Tom And Jerry
+S:via PR
+M:4/4
+L:1/4
+K:A
+X: 85
+T:The Ton or Jessie's Hornpipe
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 86
+T:Tralee Gaol
+S:Ireland, via PR
+M:2/4
+L:1/4
+K:G
+X: 87
+T:Don Tremaine's Reel
+S:New England, via PR
+M:4/4
+L:1/4
+K:D
+X: 88
+T:Trent
+S:David Bradley (Feb 89), via PR
+M:4/4
+L:1/4
+K:D
+X: 89
+T:Trial Run
+S:Bryon Bonnett, via PR
+M:4/4
+L:1/4
+K:G
+X: 90
+T:Trick Or Treat
+S:Chris Dewhurst 1984, via PR
+M:4/4
+L:1/4
+K:G
+X: 91
+T:Turkey in the Straw
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 92
+T:Mr Turveydrop
+S:Bryon Bonnett, via PR
+M:4/4
+L:1/4
+K:Dm
+X: 1
+T:Up Jumped The Devil
+S:Kevin Briggs, via EF
+M:4/4
+K:A
+X: 2
+T:Wiltshire Tempest
+S:Kevin Briggs, via EF
+M:4/4
+K:D
+X: 3
+T:Walking In My Sleep
+S:Old Time, via PR
+M:4/4
+L:1/4
+K:G
+X: 4
+T:Walter Bulliver
+S:Dave Martin, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 5
+T:The Waterloo Dance
+S:Thomas Hardy Collection via Yetties, via PR
+M:2/4
+L:1/4
+K:D
+X: 6
+T:Ways Of The World
+S:Old Time, via PR
+M:4/4
+L:1/4
+K:D
+X: 7
+T:Lord Wellington
+S:via PR
+M:4/4
+L:1/4
+K:G
+X: 8
+T:Pany Corlan yr Wyn
+S:Eric
+Y:ABC
+M:4/4
+L:1/4
+K:G
+X: 9
+T:Welsh Clog
+Y:AB
+S:Trad, via EF
+M:4/4
+L:1/4
+K:G
+X: 10
+T:Pnt ur y Bys
+S:Helen, via EF
+M:4/4
+L:1/4
+K:G
+X: 11
+T:Coleg y Br Fyrgol Abertawe
+S:Helen, via EF
+M:4/4
+L:1/4
+K:G
+X: 12
+T:Llanover Reel
+S:Helen, via EF
+M:4/4
+L:1/4
+K:G
+X: 13
+T:The West End
+S:Kevin Briggs, via EF
+Y:AAB
+M:4/4
+L:1/4
+K:D
+X: 14
+T:Western Country
+S:Old Time, via PR
+M:4/4
+L:1/4
+K:D
+X: 15
+T:West Fork Gals
+S:Old Time, via PR
+M:4/4
+L:1/4
+K:D
+X: 16
+T:Westlands
+S:Pauline Wilson, via PR
+M:4/4
+L:1/4
+K:D
+X: 17
+T:West's
+S:Kerrs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 18
+T:What the Devil
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 19
+T:Whinshields
+S:NPTB, via EF
+M:4/4
+L:1/4
+K:G
+X: 20
+T:The White Cockade
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 21
+T:The White Cockade
+S:Lesley Dolman, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 22
+T:The Wild Irishman
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 23
+T:Willaford
+S:Kevin Briggs, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 24
+T:William Tell Overture
+S:Rossini arr Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:C
+X: 25
+T:Wiltshire Six Hand Reel
+S:Trad, via EF
+Y:AB
+M:4/4
+L:1/4
+K:D
+X: 26
+T:Winhams
+S:NPTB, via EF
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 27
+T:Winster Galop
+S:Eric Foxley
+Y:AB
+M:4/4
+L:1/4
+K:G
+X: 28
+T:Captain Lachlan MacPhail
+Y:AABBCCDD
+S:Unleashed, via EF
+M:4/4
+L:1/4
+K:A
+X: 29
+T:Wollaton Park
+S:Peeping Tom, via EF
+M:4/4
+K:D
+X: 30
+T:Woodland Revels
+S:via PR
+M:4/4
+L:1/4
+K:Em
+X: 31
+T:Workshop Reel
+S:Hugh Barwell, via PR
+M:4/4
+L:1/4
+K:D
+X: 32
+T:Year End Two-Step
+S:Ralph Page, via PR
+M:4/4
+L:1/4
+K:G
+X: 33
+T:The Yeti
+S:Kevin Briggs, via EF
+Y:ABB
+M:4/4
+L:1/4
+K:A
+X: 34
+T:Zeak Waltz
+S:via PR
+M:4/4
+L:1/4
+K:D
+X: 1
+T:Drops of Brandy
+S:Trad
+Y:AB
+M:9/8
+K:G
+X: 2
+T:Dublin Streets
+S:O'Neill
+Y:AB
+M:9/8
+K:Em
+X: 3
+T:Gingerhog's No.2
+S:Phil Cunningham arr Hamish
+M:4/4
+K:D
+X: 4
+T:The Glass Of Stout
+S:Phil Rowe via Toby Bennett
+Y:AB
+M:9/8
+K:A
+X: 5
+T:Kid on the Mountain
+S:Bothy Boys
+Y:ABCDEF
+M:9/8
+K:Em
+X: 6
+T:The Lamppost
+S:Phil
+M:9/8
+K:G
+X: 7
+T:The Racehorse
+S:Toby Bennett
+M:9/8
+K:Bb
+X: 8
+T:The Rocky Road To Dublin
+S:Toby Bennett
+M:9/8
+K:Am
+X: 9
+T:Sir Roger de Coverley
+S:Trad
+Y:AB
+M:9/8
+K:G
+X: 10
+T:Slip Jig
+Y:PAAB
+S:Anon
+M:9/8
+K:D
+X: 11
+T:Staggering Home
+S:Phil Rowe via Toby Bennett
+M:9/8
+K:G
+X: 1
+T:Alnwick Castle
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 2
+T:April Waltz
+S:Alistair Anderson
+M:3/4
+L:1/4
+K:G
+X: 3
+T:Ye Banks and Braes
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:D
+X: 4
+T:I Went to Pick Some Blaeberries
+S:Joy
+M:3/4
+L:1/4
+K:A
+X: 5
+T:Blaenwern
+S:MHB 267 (i)
+M:3/4
+L:1/4
+K:G
+X: 6
+T:Blodau'r Drain
+Y:AAB
+S:TDA II
+M:3/4
+L:1/4
+K:Am
+X: 7
+T:Blow the Wind Southerly
+S:Kevin Briggs
+Y:AAB
+M:3/4
+L:1/4
+K:D
+X: 8
+T:Bonnie Dundee
+S:Joy Foxley
+M:3/4
+L:1/4
+K:F
+X: 9
+T:Caerdroea
+Y:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:D
+X: 10
+T:Cairn on the Moor
+S:CDM
+M:3/4
+L:1/4
+K:G
+X: 11
+T:Daisy Daisy
+M:3/4
+L:1/4
+K:D
+X: 12
+T:Down in the Mines
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 13
+T:Dreaming
+S:Bryon Bonnett
+M:3/4
+L:1/4
+K:G
+X: 14
+T:All Those Endearing Young Charms
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 15
+T:Ffarwel Ir Marian
+Y:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:Dm
+X: 16
+T:I Belong to Glasgow
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 17
+T:Great is Thy Faithfulness
+S:MHB 66 transposed
+M:3/4
+L:1/4
+K:D
+X: 18
+T:The Greenwood Tree
+S:FTB 1/34
+M:3/4
+L:1/4
+K:D
+X: 19
+T:Hector the Hero
+S:Wolfstone
+M:3/4
+L:1/4
+K:Bb
+X: 20
+T:Close Every Door
+S:Joseph
+M:3/4
+L:1/4
+K:Am
+X: 21
+T:Kelvingrove
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 22
+T:Logie O'Buchan
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:D
+X: 23
+T:Lord of all Hopefulness
+S:H\&S 552(i)
+M:3/4
+L:1/4
+K:D
+X: 24
+T:Louis Waltz
+S:Trad French Canadian
+M:3/4
+L:1/4
+K:D
+X: 25
+T:Lullaby
+S:Fred Hamer
+M:3/4
+L:1/4
+K:D
+X: 26
+T:M.T.B.
+S:Lesley Dolman
+M:3/4
+L:1/4
+K:G
+X: 27
+T:Maid of GlenConnel
+S:FTB1/28
+M:3/4
+L:1/4
+K:D
+X: 28
+T:Merch Megan
+Y:AAB
+S:JP/AF 85
+M:3/4
+L:1/4
+K:G
+X: 29
+T:Mexican Waltz
+S:
+M:3/4
+L:1/4
+K:G
+X: 30
+T:Mist on the Marsh
+S:Bryon Bonnett
+M:3/4
+L:1/4
+K:G
+X: 31
+T:My Home
+S:FTB1/28
+M:3/4
+L:1/4
+K:A
+X: 32
+T:My Love is Like a Red Red Frog
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:D
+X: 33
+T:Nan's Waltz
+S:Pat Shuldam-Shaw
+M:3/4
+L:1/4
+K:G
+X: 34
+T:Northern Lights
+S:T Anderson
+M:3/4
+L:1/4
+K:D
+X: 35
+T:Pam's Fancy
+S:Bryon Bonnett
+M:3/4
+L:1/4
+K:G
+X: 36
+T:Planxty Irwin
+S:O'Neils 1850 p123
+M:3/4
+L:1/4
+K:D
+X: 37
+T:Plodder Seam
+S:Eric Foxley
+M:3/4
+L:1/4
+K:C
+X: 38
+T:Road to Dundee
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 39
+T:Rope Waltz
+S:Orkney
+M:3/4
+L:1/4
+K:D
+X: 40
+T:Scots Wha Hae
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:F
+X: 41
+T:Seamus O'Brien
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+X: 42
+T:She Was a ...
+S:
+M:3/4
+L:1/4
+K:D
+X: 43
+T:Shebag Shebong
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:D
+X: 44
+T:So Long
+S:Trad
+M:3/4
+L:1/4
+K:G
+X: 45
+T:Starry Nights of Shetland
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:C
+X: 46
+T:Just as the Sun was Setting
+S:John Kirkpatrick
+M:3/4
+L:1/4
+K:Am
+X: 47
+T:Sunset Over Ayr
+S:Bryon Bonnett
+M:3/4
+L:1/4
+K:G
+X: 48
+T:Twickenham Ferry
+S:by Pat Shuldam-Shaw for Amy Foxley
+M:3/4
+L:1/4
+K:G
+X: 49
+T:Waters of Tyne
+S:NPTB
+M:3/4
+L:1/4
+K:D
+X: 50
+T:Weeping and Wailing
+S:Rosemary Redpath
+M:3/4
+L:1/4
+K:D
+X: 51
+T:Wind on the Heath
+S:Scotland
+M:3/4
+L:1/4
+K:D
+X: 52
+T:Young Jane
+S:FTB 1/36
+M:3/4
+L:1/4
+K:G
+X: 1
+T:The Boar's Head
+S:Vic
+M:4/4
+L:1/4
+K:C
+X: 2
+T:Ding Dong
+S:Trad
+Y:AB
+M:4/4
+L:1/4
+K:Bb
+X: 3
+T:GKW
+S:Trad
+Y:AAB
+M:4/4
+L:1/4
+K:G
+X: 4
+T:God rest you, merry gentlemen
+S:Trad
+M:4/4
+L:1/4
+K:Em
+X: 5
+T:Good Christian Men Rejoice
+S:Trad
+M:6/8
+L:1/8
+K:F
+X: 6
+T:The Holly and the Ivy
+S:Trad Sussex
+M:3/4
+L:1/4
+K:D
+X: 7
+T:Jubilate Deo (round)
+S:Taize?
+M:4/4
+L:1/4
+K:C
+X: 8
+T:Nos Galan
+Y:AABA
+S:Vic
+M:4/4
+L:1/4
+K:F
+X: 9
+T:On Christmas Night
+S:Trad
+M:6/8
+L:1/8
+K:G
+X: 10
+T:Wassail 1
+S:Trad
+M:6/8
+L:1/8
+K:Dm
+X: 11
+T:Wassail 2
+S:Trad
+M:6/8
+L:1/8
+K:D
+X: 12
+T:Wassail 3
+S:Trad
+M:6/8
+L:1/8
+K:G
+X: 13
+T:W3KOOA
+S:Trad
+M:6/8
+L:1/8
+K:Em
