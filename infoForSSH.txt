@@ -1,0 +1,5 @@
+1. start machine at paperspace
+2. ssh into machine
+3. source activate tf
+4. jupyter notebook --ip=0.0.0.0
+5. http://184.105.227.244:"copy from conosle"
