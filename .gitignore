@@ -1,3 +1,5 @@
 
 notebooks/datasets/shape-example-shapes1.npy
 notebooks/datasets/shape-example-shapes4.npy
+.ipynb_checkpoints
+examples/pix2pix/models/CNN/*
