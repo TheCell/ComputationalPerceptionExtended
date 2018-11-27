@@ -94,6 +94,16 @@ def train(**kwargs):
         disc_loss = 100
 
         # Start training
+        print("saving models")
+        gen_model_path = os.path.join('../../models/%s/gen_model.h5' % (model_name))
+        generator_model.save(gen_model_path, overwrite=False)
+
+        disc_weights_path = os.path.join('../../models/%s/disc_model.h5' % (model_name))
+        discriminator_model.save(disc_weights_path, overwrite=False)
+
+        DCGAN_weights_path = os.path.join('../../models/%s/DCGAN_model.h5' % (model_name))
+        DCGAN_model.save(DCGAN_weights_path, overwrite=False)
+                
         print("Start training")
         for e in range(nb_epoch):
             # Initialize progbar and batch counter

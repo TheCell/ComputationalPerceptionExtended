@@ -2,3 +2,7 @@ pix2pix/models/trainedModel/DCGAN_weights_epoch395.h5 filter=lfs diff=lfs merge=
 pix2pix/models/trainedModel/disc_weights_epoch395.h5 filter=lfs diff=lfs merge=lfs -text
 pix2pix/models/trainedModel/gen_weights_epoch395.h5 filter=lfs diff=lfs merge=lfs -text
 pix2pix/data/processed/facades_data.h5 filter=lfs diff=lfs merge=lfs -text
+pix2pix/models/trainedModel/DCGAN_model.h5 filter=lfs diff=lfs merge=lfs -text
+pix2pix/models/trainedModel/disc_model.h5 filter=lfs diff=lfs merge=lfs -text
+pix2pix/models/trainedModel/gen_model.h5 filter=lfs diff=lfs merge=lfs -text
+
